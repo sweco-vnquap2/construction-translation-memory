@@ -1,5 +1,12 @@
 [
   {
+    "source": "\\fTimes New Roman|b0|i0|c00|p23;há» ga",
+    "targetLang": "en",
+    "translation": "\\fTimes New Roman|b0|i0|c00|p23;há» ga",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:07.6632794Z"
+  },
+  {
     "source": "\\fTimes New Roman|b0|i0|c00|p23;hố ga",
     "targetLang": "en",
     "translation": "\\fTimes New Roman|b0|i0|c00|p23;hố ga",
@@ -1036,6 +1043,20 @@
     "updatedAt": "2026-08-31T08:13:36.1994336Z"
   },
   {
+    "source": "ÄÆ°á»ng Äá» Ngá»c Du",
+    "targetLang": "en",
+    "translation": "ÄÆ°á»ng Äá» Ngá»c Du",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:28.9044170Z"
+  },
+  {
+    "source": "ÄÆ°á»ng BÃ  Triá»u",
+    "targetLang": "en",
+    "translation": "ÄÆ°á»ng BÃ  Triá»u",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:28.9042403Z"
+  },
+  {
     "source": "ADH",
     "targetLang": "en",
     "translation": "ADH",
@@ -1190,6 +1211,48 @@
     "updatedAt": "2026-08-31T08:13:36.1981987Z"
   },
   {
+    "source": "NhÂµ A",
+    "targetLang": "en",
+    "translation": "NhÂµ A",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:30.8977702Z"
+  },
+  {
+    "source": "NhÂµ B",
+    "targetLang": "en",
+    "translation": "NhÂµ B",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:30.8981390Z"
+  },
+  {
+    "source": "NhÂµ BV",
+    "targetLang": "en",
+    "translation": "NhÂµ BV",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:28.9096328Z"
+  },
+  {
+    "source": "NhÂµ C",
+    "targetLang": "en",
+    "translation": "NhÂµ C",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:30.8983213Z"
+  },
+  {
+    "source": "NhÂµ D",
+    "targetLang": "en",
+    "translation": "NhÂµ D",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:07.6618823Z"
+  },
+  {
+    "source": "NhÂµ xe",
+    "targetLang": "en",
+    "translation": "NhÂµ xe",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:28.9087987Z"
+  },
+  {
     "source": "Nhµ A",
     "targetLang": "en",
     "translation": "Nhµ A",
@@ -1288,6 +1351,13 @@
     "updatedAt": "2026-08-31T08:13:28.9090175Z"
   },
   {
+    "source": "SÃ¢n bÃª tÃ´ng",
+    "targetLang": "en",
+    "translation": "SÃ¢n bÃª tÃ´ng",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:28.9060969Z"
+  },
+  {
     "source": "Sân bê tông",
     "targetLang": "en",
     "translation": "Sân bê tông",
@@ -1328,5 +1398,19 @@
     "translation": "TRU.C",
     "sourceType": "ai-auto",
     "updatedAt": "2026-08-31T08:13:57.4653205Z"
+  },
+  {
+    "source": "Nhµ C",
+    "targetLang": "vi",
+    "translation": "Nhµ C",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:15:47.7004479Z"
+  },
+  {
+    "source": "Sân bê tông",
+    "targetLang": "vi",
+    "translation": "Sân bê tông",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:15:47.7001151Z"
   }
 ]
