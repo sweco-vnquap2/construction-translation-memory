@@ -7,9 +7,9 @@
     "updatedAt": "2026-08-31T08:13:07.6632794Z"
   },
   {
-    "source": "\\fTimes New Roman|b0|i0|c00|p23;há» ga",
+    "source": "\\fTimes New Roman|b0|i0|c00|p23;hÃÂ¡ÃÂ»ÃÂ ga",
     "targetLang": "en",
-    "translation": "\\fTimes New Roman|b0|i0|c00|p23;há» ga",
+    "translation": "\\fTimes New Roman|b0|i0|c00|p23;hÃÂ¡ÃÂ»ÃÂ ga",
     "sourceType": "ai-auto",
     "updatedAt": "2026-08-31T08:13:07.6632794Z"
   },
@@ -1057,16 +1057,16 @@
     "updatedAt": "2026-08-31T08:13:28.9042403Z"
   },
   {
-    "source": "ÄÆ°á»ng Äá» Ngá»c Du",
+    "source": "ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng ÃÂÃÂÃÂ¡ÃÂ»ÃÂ NgÃÂ¡ÃÂ»ÃÂc Du",
     "targetLang": "en",
-    "translation": "ÄÆ°á»ng Äá» Ngá»c Du",
+    "translation": "ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng ÃÂÃÂÃÂ¡ÃÂ»ÃÂ NgÃÂ¡ÃÂ»ÃÂc Du",
     "sourceType": "ai-auto",
     "updatedAt": "2026-08-31T08:13:28.9044170Z"
   },
   {
-    "source": "ÄÆ°á»ng BÃ  Triá»u",
+    "source": "ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng BÃÂÃÂ  TriÃÂ¡ÃÂ»ÃÂu",
     "targetLang": "en",
-    "translation": "ÄÆ°á»ng BÃ  Triá»u",
+    "translation": "ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng BÃÂÃÂ  TriÃÂ¡ÃÂ»ÃÂu",
     "sourceType": "ai-auto",
     "updatedAt": "2026-08-31T08:13:28.9042403Z"
   },
@@ -1211,6 +1211,48 @@
     "updatedAt": "2026-08-31T08:13:36.1981987Z"
   },
   {
+    "source": "NhÃÂÃÂµ A",
+    "targetLang": "en",
+    "translation": "NhÃÂÃÂµ A",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:30.8977702Z"
+  },
+  {
+    "source": "NhÃÂÃÂµ B",
+    "targetLang": "en",
+    "translation": "NhÃÂÃÂµ B",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:30.8981390Z"
+  },
+  {
+    "source": "NhÃÂÃÂµ BV",
+    "targetLang": "en",
+    "translation": "NhÃÂÃÂµ BV",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:28.9096328Z"
+  },
+  {
+    "source": "NhÃÂÃÂµ C",
+    "targetLang": "en",
+    "translation": "NhÃÂÃÂµ C",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:30.8983213Z"
+  },
+  {
+    "source": "NhÃÂÃÂµ D",
+    "targetLang": "en",
+    "translation": "NhÃÂÃÂµ D",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:07.6618823Z"
+  },
+  {
+    "source": "NhÃÂÃÂµ xe",
+    "targetLang": "en",
+    "translation": "NhÃÂÃÂµ xe",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-08-31T08:13:28.9087987Z"
+  },
+  {
     "source": "NhÃÂµ A",
     "targetLang": "en",
     "translation": "NhÃÂµ A",
@@ -1249,48 +1291,6 @@
     "source": "NhÃÂµ xe",
     "targetLang": "en",
     "translation": "NhÃÂµ xe",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-08-31T08:13:28.9087987Z"
-  },
-  {
-    "source": "NhÂµ A",
-    "targetLang": "en",
-    "translation": "NhÂµ A",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-08-31T08:13:30.8977702Z"
-  },
-  {
-    "source": "NhÂµ B",
-    "targetLang": "en",
-    "translation": "NhÂµ B",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-08-31T08:13:30.8981390Z"
-  },
-  {
-    "source": "NhÂµ BV",
-    "targetLang": "en",
-    "translation": "NhÂµ BV",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-08-31T08:13:28.9096328Z"
-  },
-  {
-    "source": "NhÂµ C",
-    "targetLang": "en",
-    "translation": "NhÂµ C",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-08-31T08:13:30.8983213Z"
-  },
-  {
-    "source": "NhÂµ D",
-    "targetLang": "en",
-    "translation": "NhÂµ D",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-08-31T08:13:07.6618823Z"
-  },
-  {
-    "source": "NhÂµ xe",
-    "targetLang": "en",
-    "translation": "NhÂµ xe",
     "sourceType": "ai-auto",
     "updatedAt": "2026-08-31T08:13:28.9087987Z"
   },
@@ -1351,16 +1351,16 @@
     "updatedAt": "2026-08-31T08:13:28.9090175Z"
   },
   {
-    "source": "SÃ¢n bÃª tÃ´ng",
+    "source": "SÃÂ¢n bÃÂª tÃÂ´ng",
     "targetLang": "en",
-    "translation": "SÃ¢n bÃª tÃ´ng",
+    "translation": "SÃÂ¢n bÃÂª tÃÂ´ng",
     "sourceType": "ai-auto",
     "updatedAt": "2026-08-31T08:13:28.9060969Z"
   },
   {
-    "source": "SÃÂ¢n bÃÂª tÃÂ´ng",
+    "source": "SÃÂÃÂ¢n bÃÂÃÂª tÃÂÃÂ´ng",
     "targetLang": "en",
-    "translation": "SÃÂ¢n bÃÂª tÃÂ´ng",
+    "translation": "SÃÂÃÂ¢n bÃÂÃÂª tÃÂÃÂ´ng",
     "sourceType": "ai-auto",
     "updatedAt": "2026-08-31T08:13:28.9060969Z"
   },
@@ -1400,6 +1400,13 @@
     "updatedAt": "2026-08-31T08:13:57.4653205Z"
   },
   {
+    "source": "H_NÃ¢ng bÃ³ lá»",
+    "targetLang": "vi",
+    "translation": "H_NÃ¢ng bÃ³ lá»",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-03T03:43:18.5651591Z"
+  },
+  {
     "source": "H_Nâng bó lề",
     "targetLang": "vi",
     "translation": "H_Nâng bó lề",
@@ -1407,17 +1414,24 @@
     "updatedAt": "2026-09-03T03:43:18.5651591Z"
   },
   {
-    "source": "NhÂµ C",
+    "source": "NhÃÂµ C",
     "targetLang": "vi",
-    "translation": "NhÂµ C",
+    "translation": "NhÃÂµ C",
     "sourceType": "ai-auto",
     "updatedAt": "2026-08-31T08:15:47.7004479Z"
   },
   {
-    "source": "SÃ¢n bÃª tÃ´ng",
+    "source": "SÃÂ¢n bÃÂª tÃÂ´ng",
     "targetLang": "vi",
-    "translation": "SÃ¢n bÃª tÃ´ng",
+    "translation": "SÃÂ¢n bÃÂª tÃÂ´ng",
     "sourceType": "ai-auto",
     "updatedAt": "2026-08-31T08:15:47.7001151Z"
+  },
+  {
+    "source": "top and datum",
+    "targetLang": "vi",
+    "translation": "trên and datum",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-03T03:43:44.6056519Z"
   }
 ]
