@@ -1603,6 +1603,13 @@
     "updatedAt": "2026-09-03T11:07:58.5680406+07:00"
   },
   {
+    "source": "(1:100)",
+    "targetLang": "vi",
+    "translation": "(1:100)",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2158765Z"
+  },
+  {
     "source": "{\\C2;0.20}",
     "targetLang": "vi",
     "translation": "{\\C2;0.20}",
@@ -1813,697 +1820,851 @@
     "updatedAt": "2026-09-03T11:03:55.4394897+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.1\\PKm: 0+000.00}",
+    "source": "{\\C40; Cá»c: P1.1\\PKm: 0+000.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.1\\PKm: 0+000.00}",
+    "translation": "{\\C40; Cá»c: P1.1\\PKm: 0+000.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:12.9333148+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.10\\PKm: 0+200.00}",
+    "source": "{\\C40; Cá»c: P1.10\\PKm: 0+200.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.10\\PKm: 0+200.00}",
+    "translation": "{\\C40; Cá»c: P1.10\\PKm: 0+200.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:11.6816549+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.11\\PKm: 0+220.00}",
+    "source": "{\\C40; Cá»c: P1.11\\PKm: 0+220.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.11\\PKm: 0+220.00}",
+    "translation": "{\\C40; Cá»c: P1.11\\PKm: 0+220.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:11.6714422+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.12\\PKm: 0+240.00}",
+    "source": "{\\C40; Cá»c: P1.12\\PKm: 0+240.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.12\\PKm: 0+240.00}",
+    "translation": "{\\C40; Cá»c: P1.12\\PKm: 0+240.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:11.6587106+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.13\\PKm: 0+260.00}",
+    "source": "{\\C40; Cá»c: P1.13\\PKm: 0+260.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.13\\PKm: 0+260.00}",
+    "translation": "{\\C40; Cá»c: P1.13\\PKm: 0+260.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:11.6570515+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.14\\PKm: 0+280.00}",
+    "source": "{\\C40; Cá»c: P1.14\\PKm: 0+280.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.14\\PKm: 0+280.00}",
+    "translation": "{\\C40; Cá»c: P1.14\\PKm: 0+280.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:10.4862503+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.15\\PKm: 0+300.00}",
+    "source": "{\\C40; Cá»c: P1.15\\PKm: 0+300.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.15\\PKm: 0+300.00}",
+    "translation": "{\\C40; Cá»c: P1.15\\PKm: 0+300.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:10.4768637+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.16\\PKm: 0+320.00}",
+    "source": "{\\C40; Cá»c: P1.16\\PKm: 0+320.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.16\\PKm: 0+320.00}",
+    "translation": "{\\C40; Cá»c: P1.16\\PKm: 0+320.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:10.4674695+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.17\\PKm: 0+360.00}",
+    "source": "{\\C40; Cá»c: P1.17\\PKm: 0+360.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.17\\PKm: 0+360.00}",
+    "translation": "{\\C40; Cá»c: P1.17\\PKm: 0+360.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:10.4490322+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.18\\PKm: 0+400.00}",
+    "source": "{\\C40; Cá»c: P1.18\\PKm: 0+400.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.18\\PKm: 0+400.00}",
+    "translation": "{\\C40; Cá»c: P1.18\\PKm: 0+400.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:10.4358671+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.19\\PKm: 0+440.00}",
+    "source": "{\\C40; Cá»c: P1.19\\PKm: 0+440.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.19\\PKm: 0+440.00}",
+    "translation": "{\\C40; Cá»c: P1.19\\PKm: 0+440.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:09.2577448+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.2\\PKm: 0+020.00}",
+    "source": "{\\C40; Cá»c: P1.2\\PKm: 0+020.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.2\\PKm: 0+020.00}",
+    "translation": "{\\C40; Cá»c: P1.2\\PKm: 0+020.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:12.9150231+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.20\\PKm: 0+480.00}",
+    "source": "{\\C40; Cá»c: P1.20\\PKm: 0+480.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.20\\PKm: 0+480.00}",
+    "translation": "{\\C40; Cá»c: P1.20\\PKm: 0+480.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:09.2360495+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.21\\PKm: 0+500.00}",
+    "source": "{\\C40; Cá»c: P1.21\\PKm: 0+500.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.21\\PKm: 0+500.00}",
+    "translation": "{\\C40; Cá»c: P1.21\\PKm: 0+500.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:09.2268811+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.22\\PKm: 0+520.00}",
+    "source": "{\\C40; Cá»c: P1.22\\PKm: 0+520.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.22\\PKm: 0+520.00}",
+    "translation": "{\\C40; Cá»c: P1.22\\PKm: 0+520.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:09.2190322+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.23\\PKm: 0+540.00}",
+    "source": "{\\C40; Cá»c: P1.23\\PKm: 0+540.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.23\\PKm: 0+540.00}",
+    "translation": "{\\C40; Cá»c: P1.23\\PKm: 0+540.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:09.2183727+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.24\\PKm: 0+560.00}",
+    "source": "{\\C40; Cá»c: P1.24\\PKm: 0+560.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.24\\PKm: 0+560.00}",
+    "translation": "{\\C40; Cá»c: P1.24\\PKm: 0+560.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:09.2176059+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.25\\PKm: 0+580.00}",
+    "source": "{\\C40; Cá»c: P1.25\\PKm: 0+580.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.25\\PKm: 0+580.00}",
+    "translation": "{\\C40; Cá»c: P1.25\\PKm: 0+580.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:08.0515362+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.26\\PKm: 0+600.00}",
+    "source": "{\\C40; Cá»c: P1.26\\PKm: 0+600.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.26\\PKm: 0+600.00}",
+    "translation": "{\\C40; Cá»c: P1.26\\PKm: 0+600.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:08.0356875+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.27\\PKm: 0+620.00}",
+    "source": "{\\C40; Cá»c: P1.27\\PKm: 0+620.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.27\\PKm: 0+620.00}",
+    "translation": "{\\C40; Cá»c: P1.27\\PKm: 0+620.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:08.0260046+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.28\\PKm: 0+640.00}",
+    "source": "{\\C40; Cá»c: P1.28\\PKm: 0+640.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.28\\PKm: 0+640.00}",
+    "translation": "{\\C40; Cá»c: P1.28\\PKm: 0+640.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:08.0168834+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.3\\PKm: 0+040.00}",
+    "source": "{\\C40; Cá»c: P1.3\\PKm: 0+040.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.3\\PKm: 0+040.00}",
+    "translation": "{\\C40; Cá»c: P1.3\\PKm: 0+040.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:12.9057060+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.31\\PKm: 0+720.00}",
+    "source": "{\\C40; Cá»c: P1.31\\PKm: 0+720.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.31\\PKm: 0+720.00}",
+    "translation": "{\\C40; Cá»c: P1.31\\PKm: 0+720.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:51.9306652+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.32\\PKm: 0+740.00}",
+    "source": "{\\C40; Cá»c: P1.32\\PKm: 0+740.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.32\\PKm: 0+740.00}",
+    "translation": "{\\C40; Cá»c: P1.32\\PKm: 0+740.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:51.9300354+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.36\\PKm: 0+820.00}",
+    "source": "{\\C40; Cá»c: P1.36\\PKm: 0+820.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.36\\PKm: 0+820.00}",
+    "translation": "{\\C40; Cá»c: P1.36\\PKm: 0+820.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:08.0065710+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.37\\PKm: 0+840.00}",
+    "source": "{\\C40; Cá»c: P1.37\\PKm: 0+840.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.37\\PKm: 0+840.00}",
+    "translation": "{\\C40; Cá»c: P1.37\\PKm: 0+840.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:08.0057959+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.38\\PKm: 0+860.00}",
+    "source": "{\\C40; Cá»c: P1.38\\PKm: 0+860.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.38\\PKm: 0+860.00}",
+    "translation": "{\\C40; Cá»c: P1.38\\PKm: 0+860.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:06.7665338+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.4\\PKm: 0+060.00}",
+    "source": "{\\C40; Cá»c: P1.4\\PKm: 0+060.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.4\\PKm: 0+060.00}",
+    "translation": "{\\C40; Cá»c: P1.4\\PKm: 0+060.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:12.8893767+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.40\\PKm: 0+900.00}",
+    "source": "{\\C40; Cá»c: P1.40\\PKm: 0+900.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.40\\PKm: 0+900.00}",
+    "translation": "{\\C40; Cá»c: P1.40\\PKm: 0+900.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:06.7575755+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.41\\PKm: 0+941.88}",
+    "source": "{\\C40; Cá»c: P1.41\\PKm: 0+941.88}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.41\\PKm: 0+941.88}",
+    "translation": "{\\C40; Cá»c: P1.41\\PKm: 0+941.88}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:06.7134223+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.42\\PKm: 0+999.74}",
+    "source": "{\\C40; Cá»c: P1.42\\PKm: 0+999.74}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.42\\PKm: 0+999.74}",
+    "translation": "{\\C40; Cá»c: P1.42\\PKm: 0+999.74}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:05.5427169+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.43\\PKm: 1+010.41}",
+    "source": "{\\C40; Cá»c: P1.43\\PKm: 1+010.41}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.43\\PKm: 1+010.41}",
+    "translation": "{\\C40; Cá»c: P1.43\\PKm: 1+010.41}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:05.5328906+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.44\\PKm: 1+185.81}",
+    "source": "{\\C40; Cá»c: P1.44\\PKm: 1+185.81}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.44\\PKm: 1+185.81}",
+    "translation": "{\\C40; Cá»c: P1.44\\PKm: 1+185.81}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:05.5111385+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.45\\PKm: 1+215.84}",
+    "source": "{\\C40; Cá»c: P1.45\\PKm: 1+215.84}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.45\\PKm: 1+215.84}",
+    "translation": "{\\C40; Cá»c: P1.45\\PKm: 1+215.84}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:05.4999419+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.46\\PKm: 1+254.05}",
+    "source": "{\\C40; Cá»c: P1.46\\PKm: 1+254.05}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.46\\PKm: 1+254.05}",
+    "translation": "{\\C40; Cá»c: P1.46\\PKm: 1+254.05}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:05.4984521+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.47\\PKm: 1+273.11}",
+    "source": "{\\C40; Cá»c: P1.47\\PKm: 1+273.11}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.47\\PKm: 1+273.11}",
+    "translation": "{\\C40; Cá»c: P1.47\\PKm: 1+273.11}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:05.4974363+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.48\\PKm: 1+292.54}",
+    "source": "{\\C40; Cá»c: P1.48\\PKm: 1+292.54}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.48\\PKm: 1+292.54}",
+    "translation": "{\\C40; Cá»c: P1.48\\PKm: 1+292.54}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:04.3327894+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.5\\PKm: 0+080.00}",
+    "source": "{\\C40; Cá»c: P1.5\\PKm: 0+080.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.5\\PKm: 0+080.00}",
+    "translation": "{\\C40; Cá»c: P1.5\\PKm: 0+080.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:12.8887941+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.50\\PKm: 1+352.60}",
+    "source": "{\\C40; Cá»c: P1.50\\PKm: 1+352.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.50\\PKm: 1+352.60}",
+    "translation": "{\\C40; Cá»c: P1.50\\PKm: 1+352.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:04.2966957+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.51\\PKm: 1+392.60}",
+    "source": "{\\C40; Cá»c: P1.51\\PKm: 1+392.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.51\\PKm: 1+392.60}",
+    "translation": "{\\C40; Cá»c: P1.51\\PKm: 1+392.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:04.2736516+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.52\\PKm: 1+432.60}",
+    "source": "{\\C40; Cá»c: P1.52\\PKm: 1+432.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.52\\PKm: 1+432.60}",
+    "translation": "{\\C40; Cá»c: P1.52\\PKm: 1+432.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:03.1165101+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.53\\PKm: 1+450.21}",
+    "source": "{\\C40; Cá»c: P1.53\\PKm: 1+450.21}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.53\\PKm: 1+450.21}",
+    "translation": "{\\C40; Cá»c: P1.53\\PKm: 1+450.21}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:03.1058571+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.54\\PKm: 1+452.60}",
+    "source": "{\\C40; Cá»c: P1.54\\PKm: 1+452.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.54\\PKm: 1+452.60}",
+    "translation": "{\\C40; Cá»c: P1.54\\PKm: 1+452.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:03.0929526+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.55\\PKm: 1+472.60}",
+    "source": "{\\C40; Cá»c: P1.55\\PKm: 1+472.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.55\\PKm: 1+472.60}",
+    "translation": "{\\C40; Cá»c: P1.55\\PKm: 1+472.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:03.0753267+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.56\\PKm: 1+492.60}",
+    "source": "{\\C40; Cá»c: P1.56\\PKm: 1+492.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.56\\PKm: 1+492.60}",
+    "translation": "{\\C40; Cá»c: P1.56\\PKm: 1+492.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:03.0667845+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.57\\PKm: 1+512.60}",
+    "source": "{\\C40; Cá»c: P1.57\\PKm: 1+512.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.57\\PKm: 1+512.60}",
+    "translation": "{\\C40; Cá»c: P1.57\\PKm: 1+512.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:03.0573174+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.58\\PKm: 1+552.60}",
+    "source": "{\\C40; Cá»c: P1.58\\PKm: 1+552.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.58\\PKm: 1+552.60}",
+    "translation": "{\\C40; Cá»c: P1.58\\PKm: 1+552.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:03.0518941+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.59\\PKm: 1+572.60}",
+    "source": "{\\C40; Cá»c: P1.59\\PKm: 1+572.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.59\\PKm: 1+572.60}",
+    "translation": "{\\C40; Cá»c: P1.59\\PKm: 1+572.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:01.8988284+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.6\\PKm: 0+100.00}",
+    "source": "{\\C40; Cá»c: P1.6\\PKm: 0+100.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.6\\PKm: 0+100.00}",
+    "translation": "{\\C40; Cá»c: P1.6\\PKm: 0+100.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:11.7053126+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.60\\PKm: 1+592.60}",
+    "source": "{\\C40; Cá»c: P1.60\\PKm: 1+592.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.60\\PKm: 1+592.60}",
+    "translation": "{\\C40; Cá»c: P1.60\\PKm: 1+592.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:01.8895762+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.61\\PKm: 1+612.60}",
+    "source": "{\\C40; Cá»c: P1.61\\PKm: 1+612.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.61\\PKm: 1+612.60}",
+    "translation": "{\\C40; Cá»c: P1.61\\PKm: 1+612.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:01.8799717+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.62\\PKm: 1+632.60}",
+    "source": "{\\C40; Cá»c: P1.62\\PKm: 1+632.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.62\\PKm: 1+632.60}",
+    "translation": "{\\C40; Cá»c: P1.62\\PKm: 1+632.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:01.8594962+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.66\\PKm: 1+688.36}",
+    "source": "{\\C40; Cá»c: P1.66\\PKm: 1+688.36}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.66\\PKm: 1+688.36}",
+    "translation": "{\\C40; Cá»c: P1.66\\PKm: 1+688.36}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:01.8587831+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.67\\PKm: 1+731.83}",
+    "source": "{\\C40; Cá»c: P1.67\\PKm: 1+731.83}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.67\\PKm: 1+731.83}",
+    "translation": "{\\C40; Cá»c: P1.67\\PKm: 1+731.83}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:00.7351458+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.68\\PKm: 1+792.60}",
+    "source": "{\\C40; Cá»c: P1.68\\PKm: 1+792.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.68\\PKm: 1+792.60}",
+    "translation": "{\\C40; Cá»c: P1.68\\PKm: 1+792.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:00.7163564+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.69\\PKm: 1+812.60}",
+    "source": "{\\C40; Cá»c: P1.69\\PKm: 1+812.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.69\\PKm: 1+812.60}",
+    "translation": "{\\C40; Cá»c: P1.69\\PKm: 1+812.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:00.6958605+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.70\\PKm: 1+832.60}",
+    "source": "{\\C40; Cá»c: P1.70\\PKm: 1+832.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.70\\PKm: 1+832.60}",
+    "translation": "{\\C40; Cá»c: P1.70\\PKm: 1+832.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:59.5740759+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.71\\PKm: 1+852.60}",
+    "source": "{\\C40; Cá»c: P1.71\\PKm: 1+852.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.71\\PKm: 1+852.60}",
+    "translation": "{\\C40; Cá»c: P1.71\\PKm: 1+852.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:59.5666991+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.72\\PKm: 1+872.60}",
+    "source": "{\\C40; Cá»c: P1.72\\PKm: 1+872.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.72\\PKm: 1+872.60}",
+    "translation": "{\\C40; Cá»c: P1.72\\PKm: 1+872.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:59.5481260+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.74\\PKm: 1+917.82}",
+    "source": "{\\C40; Cá»c: P1.74\\PKm: 1+917.82}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.74\\PKm: 1+917.82}",
+    "translation": "{\\C40; Cá»c: P1.74\\PKm: 1+917.82}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:59.5357993+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.75\\PKm: 1+932.60}",
+    "source": "{\\C40; Cá»c: P1.75\\PKm: 1+932.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.75\\PKm: 1+932.60}",
+    "translation": "{\\C40; Cá»c: P1.75\\PKm: 1+932.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:59.5347177+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.76\\PKm: 1+952.60}",
+    "source": "{\\C40; Cá»c: P1.76\\PKm: 1+952.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.76\\PKm: 1+952.60}",
+    "translation": "{\\C40; Cá»c: P1.76\\PKm: 1+952.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:58.4460557+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.77\\PKm: 1+972.60}",
+    "source": "{\\C40; Cá»c: P1.77\\PKm: 1+972.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.77\\PKm: 1+972.60}",
+    "translation": "{\\C40; Cá»c: P1.77\\PKm: 1+972.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:58.4379211+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.78\\PKm: 1+992.60}",
+    "source": "{\\C40; Cá»c: P1.78\\PKm: 1+992.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.78\\PKm: 1+992.60}",
+    "translation": "{\\C40; Cá»c: P1.78\\PKm: 1+992.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:58.4077222+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.79\\PKm: 2+012.60}",
+    "source": "{\\C40; Cá»c: P1.79\\PKm: 2+012.60}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.79\\PKm: 2+012.60}",
+    "translation": "{\\C40; Cá»c: P1.79\\PKm: 2+012.60}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:58.4071399+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.8\\PKm: 0+140.00}",
+    "source": "{\\C40; Cá»c: P1.8\\PKm: 0+140.00}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.8\\PKm: 0+140.00}",
+    "translation": "{\\C40; Cá»c: P1.8\\PKm: 0+140.00}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:11.6947813+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P1\\PKm: 0+047.44}",
+    "source": "{\\C40; Cá»c: P1.P1\\PKm: 0+047.44}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P1\\PKm: 0+047.44}",
+    "translation": "{\\C40; Cá»c: P1.P1\\PKm: 0+047.44}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:12.9050075+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P10\\PKm: 1+412.59}",
+    "source": "{\\C40; Cá»c: P1.P10\\PKm: 1+412.59}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P10\\PKm: 1+412.59}",
+    "translation": "{\\C40; Cá»c: P1.P10\\PKm: 1+412.59}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:04.2729042+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P11\\PKm: 1+535.63}",
+    "source": "{\\C40; Cá»c: P1.P11\\PKm: 1+535.63}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P11\\PKm: 1+535.63}",
+    "translation": "{\\C40; Cá»c: P1.P11\\PKm: 1+535.63}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:03.0566592+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P12\\PKm: 1+713.98}",
+    "source": "{\\C40; Cá»c: P1.P12\\PKm: 1+713.98}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P12\\PKm: 1+713.98}",
+    "translation": "{\\C40; Cá»c: P1.P12\\PKm: 1+713.98}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:00.7583924+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P13\\PKm: 1+799.45}",
+    "source": "{\\C40; Cá»c: P1.P13\\PKm: 1+799.45}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P13\\PKm: 1+799.45}",
+    "translation": "{\\C40; Cá»c: P1.P13\\PKm: 1+799.45}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:00.7058026+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P14\\PKm: 1+890.39}",
+    "source": "{\\C40; Cá»c: P1.P14\\PKm: 1+890.39}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P14\\PKm: 1+890.39}",
+    "translation": "{\\C40; Cá»c: P1.P14\\PKm: 1+890.39}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:59.5366004+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P15\\PKm: 2+031.29}",
+    "source": "{\\C40; Cá»c: P1.P15\\PKm: 2+031.29}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P15\\PKm: 2+031.29}",
+    "translation": "{\\C40; Cá»c: P1.P15\\PKm: 2+031.29}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:58.4064123+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P2\\PKm: 0+250.67}",
+    "source": "{\\C40; Cá»c: P1.P2\\PKm: 0+250.67}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P2\\PKm: 0+250.67}",
+    "translation": "{\\C40; Cá»c: P1.P2\\PKm: 0+250.67}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:11.6579337+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P3\\PKm: 0+420.57}",
+    "source": "{\\C40; Cá»c: P1.P3\\PKm: 0+420.57}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P3\\PKm: 0+420.57}",
+    "translation": "{\\C40; Cá»c: P1.P3\\PKm: 0+420.57}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:10.4281666+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P4\\PKm: 0+574.08}",
+    "source": "{\\C40; Cá»c: P1.P4\\PKm: 0+574.08}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P4\\PKm: 0+574.08}",
+    "translation": "{\\C40; Cá»c: P1.P4\\PKm: 0+574.08}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:08.0606427+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P6\\PKm: 0+927.69}",
+    "source": "{\\C40; Cá»c: P1.P6\\PKm: 0+927.69}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P6\\PKm: 0+927.69}",
+    "translation": "{\\C40; Cá»c: P1.P6\\PKm: 0+927.69}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:06.7259153+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P8\\PKm: 1+231.72}",
+    "source": "{\\C40; Cá»c: P1.P8\\PKm: 1+231.72}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P8\\PKm: 1+231.72}",
+    "translation": "{\\C40; Cá»c: P1.P8\\PKm: 1+231.72}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:05.4993405+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.P9\\PKm: 1+330.50}",
+    "source": "{\\C40; Cá»c: P1.P9\\PKm: 1+330.50}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.P9\\PKm: 1+330.50}",
+    "translation": "{\\C40; Cá»c: P1.P9\\PKm: 1+330.50}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:04.3165172+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC (1)\\PKm: 1+723.79}",
+    "source": "{\\C40; Cá»c: P1.TC (1)\\PKm: 1+723.79}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC (1)\\PKm: 1+723.79}",
+    "translation": "{\\C40; Cá»c: P1.TC (1)\\PKm: 1+723.79}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:00.7455993+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC (2)\\PKm: 1+825.91}",
+    "source": "{\\C40; Cá»c: P1.TC (2)\\PKm: 1+825.91}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC (2)\\PKm: 1+825.91}",
+    "translation": "{\\C40; Cá»c: P1.TC (2)\\PKm: 1+825.91}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:00.6951830+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC\\PKm: 1+621.06}",
+    "source": "{\\C40; Cá»c: P1.TC\\PKm: 1+621.06}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC\\PKm: 1+621.06}",
+    "translation": "{\\C40; Cá»c: P1.TC\\PKm: 1+621.06}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:01.8705984+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC1\\PKm: 0+087.38}",
+    "source": "{\\C40; Cá»c: P1.TC1\\PKm: 0+087.38}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC1\\PKm: 0+087.38}",
+    "translation": "{\\C40; Cá»c: P1.TC1\\PKm: 0+087.38}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:12.8880650+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC2\\PKm: 0+339.07}",
+    "source": "{\\C40; Cá»c: P1.TC2\\PKm: 0+339.07}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC2\\PKm: 0+339.07}",
+    "translation": "{\\C40; Cá»c: P1.TC2\\PKm: 0+339.07}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:10.4576090+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC3\\PKm: 0+461.48}",
+    "source": "{\\C40; Cá»c: P1.TC3\\PKm: 0+461.48}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC3\\PKm: 0+461.48}",
+    "translation": "{\\C40; Cá»c: P1.TC3\\PKm: 0+461.48}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:09.2454992+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC5\\PKm: 0+846.07}",
+    "source": "{\\C40; Cá»c: P1.TC5\\PKm: 0+846.07}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC5\\PKm: 0+846.07}",
+    "translation": "{\\C40; Cá»c: P1.TC5\\PKm: 0+846.07}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:08.0039698+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC6\\PKm: 0+937.29}",
+    "source": "{\\C40; Cá»c: P1.TC6\\PKm: 0+937.29}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC6\\PKm: 0+937.29}",
+    "translation": "{\\C40; Cá»c: P1.TC6\\PKm: 0+937.29}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:06.7140124+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC7\\PKm: 0+992.36}",
+    "source": "{\\C40; Cá»c: P1.TC7\\PKm: 0+992.36}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC7\\PKm: 0+992.36}",
+    "translation": "{\\C40; Cá»c: P1.TC7\\PKm: 0+992.36}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:06.7124310+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TC9\\PKm: 1+362.08}",
+    "source": "{\\C40; Cá»c: P1.TC9\\PKm: 1+362.08}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TC9\\PKm: 1+362.08}",
+    "translation": "{\\C40; Cá»c: P1.TC9\\PKm: 1+362.08}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:04.2856262+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TD1\\PKm: 0+007.51}",
+    "source": "{\\C40; Cá»c: P1.TD1\\PKm: 0+007.51}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TD1\\PKm: 0+007.51}",
+    "translation": "{\\C40; Cá»c: P1.TD1\\PKm: 0+007.51}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:12.9232141+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TD10\\PKm: 1+374.96}",
+    "source": "{\\C40; Cá»c: P1.TD10\\PKm: 1+374.96}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TD10\\PKm: 1+374.96}",
+    "translation": "{\\C40; Cá»c: P1.TD10\\PKm: 1+374.96}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:04.2743541+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TD12\\PKm: 1+704.17}",
+    "source": "{\\C40; Cá»c: P1.TD12\\PKm: 1+704.17}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TD12\\PKm: 1+704.17}",
+    "translation": "{\\C40; Cá»c: P1.TD12\\PKm: 1+704.17}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:01.8580391+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TD13\\PKm: 1+772.99}",
+    "source": "{\\C40; Cá»c: P1.TD13\\PKm: 1+772.99}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TD13\\PKm: 1+772.99}",
+    "translation": "{\\C40; Cá»c: P1.TD13\\PKm: 1+772.99}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:00.7256289+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TD14\\PKm: 1+854.22}",
+    "source": "{\\C40; Cá»c: P1.TD14\\PKm: 1+854.22}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TD14\\PKm: 1+854.22}",
+    "translation": "{\\C40; Cá»c: P1.TD14\\PKm: 1+854.22}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:59.5659724+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TD15\\PKm: 1+974.85}",
+    "source": "{\\C40; Cá»c: P1.TD15\\PKm: 1+974.85}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TD15\\PKm: 1+974.85}",
+    "translation": "{\\C40; Cá»c: P1.TD15\\PKm: 1+974.85}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:58.4246987+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TD3\\PKm: 0+379.67}",
+    "source": "{\\C40; Cá»c: P1.TD3\\PKm: 0+379.67}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TD3\\PKm: 0+379.67}",
+    "translation": "{\\C40; Cá»c: P1.TD3\\PKm: 0+379.67}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:10.4365379+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TD6\\PKm: 0+918.09}",
+    "source": "{\\C40; Cá»c: P1.TD6\\PKm: 0+918.09}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TD6\\PKm: 0+918.09}",
+    "translation": "{\\C40; Cá»c: P1.TD6\\PKm: 0+918.09}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:06.7403454+07:00"
   },
   {
-    "source": "{\\C40; Cọc: P1.TD8\\PKm: 1+164.51}",
+    "source": "{\\C40; Cá»c: P1.TD8\\PKm: 1+164.51}",
     "targetLang": "vi",
-    "translation": "{\\C40; Cọc: P1.TD8\\PKm: 1+164.51}",
+    "translation": "{\\C40; Cá»c: P1.TD8\\PKm: 1+164.51}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:10:05.5240586+07:00"
   },
   {
-    "source": "\\pxqc;P.VI VUỐT NỐI",
+    "source": "{\\fArial|b0|i0|c0|p34;Cọc: 2\\PKm: 0+015.00}",
     "targetLang": "vi",
-    "translation": "\\pxqc;P.VI VUỐT NỐI",
+    "translation": "{\\fArial|b0|i0|c0|p34;Cọc: 2\\PKm: 0+015.00}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:50.3806274Z"
+  },
+  {
+    "source": "{\\fArial|b0|i0|c0|p34;Cọc: 3\\PKm: 0+022.16}",
+    "targetLang": "vi",
+    "translation": "{\\fArial|b0|i0|c0|p34;Cọc: 3\\PKm: 0+022.16}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:44.4293675Z"
+  },
+  {
+    "source": "{\\fArial|b0|i0|c0|p34;Cọc: 4\\PKm: 0+025.61}",
+    "targetLang": "vi",
+    "translation": "{\\fArial|b0|i0|c0|p34;Cọc: 4\\PKm: 0+025.61}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:40.6906318Z"
+  },
+  {
+    "source": "{\\fArial|b0|i0|c0|p34;Cọc: 5CO\\PKm: 0+031.88}",
+    "targetLang": "vi",
+    "translation": "{\\fArial|b0|i0|c0|p34;Cọc: 5CO\\PKm: 0+031.88}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:35.9092244Z"
+  },
+  {
+    "source": "{\\fArial|b0|i0|c0|p34;Cọc: 6\\PKm: 0+040.93}",
+    "targetLang": "vi",
+    "translation": "{\\fArial|b0|i0|c0|p34;Cọc: 6\\PKm: 0+040.93}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:49.2368691Z"
+  },
+  {
+    "source": "{\\fArial|b0|i0|c0|p34;Cọc: 7\\PKm: 0+057.13}",
+    "targetLang": "vi",
+    "translation": "{\\fArial|b0|i0|c0|p34;Cọc: 7\\PKm: 0+057.13}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:14.2136151Z"
+  },
+  {
+    "source": "{\\fArial|b0|i0|c0|p34;Cọc: 8\\PKm: 0+064.35}",
+    "targetLang": "vi",
+    "translation": "{\\fArial|b0|i0|c0|p34;Cọc: 8\\PKm: 0+064.35}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:22.8364018Z"
+  },
+  {
+    "source": "{\\fArial|b0|i0|c0|p34;Cọc: TD1\\PKm: 0+046.30}",
+    "targetLang": "vi",
+    "translation": "{\\fArial|b0|i0|c0|p34;Cọc: TD1\\PKm: 0+046.30}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:49.2363432Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p34;  C\\U+0110TN}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p34; C\\U+0110TN}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:14.2130366Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p34;  KC-TK}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p34; KC-TK}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:14.2132432Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p34;  KC-TN}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p34; KC-TN}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:14.2126824Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p34;C\\U+0110TK}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p34;C\\U+0110TK}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:14.2134409Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p51;\\C6;MSS:1013.00}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p51;\\C6;MSS:1013.00}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:50.3811302Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p51;\\C6;MSS:1015.00}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p51;\\C6;MSS:1015.00}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:14.2138422Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1021.66}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1021.66}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5658850Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1021.96}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1021.96}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5611671Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1022.09}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1022.09}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5609891Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1022.31}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1022.31}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5608111Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1022.63}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1022.63}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5606339Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1022.76}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1022.76}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5604518Z"
+  },
+  {
+    "source": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1023.08}",
+    "targetLang": "vi",
+    "translation": "{\\fTahoma|b0|i0|c0|p51;C\\U+0110TK: 1023.08}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5602730Z"
+  },
+  {
+    "source": "\\pxqc;P.VI VUá»T Ná»I",
+    "targetLang": "vi",
+    "translation": "\\pxqc;P.VI VUá»T Ná»I",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:09:57.2632747+07:00"
+  },
+  {
+    "source": "+1022.25",
+    "targetLang": "vi",
+    "translation": "+1022.25",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5600954Z"
   },
   {
     "source": "0.0",
@@ -2849,6 +3010,13 @@
     "updatedAt": "2026-09-03T11:13:46.5586438+07:00"
   },
   {
+    "source": "0.46",
+    "targetLang": "vi",
+    "translation": "0.46",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:00.6449201Z"
+  },
+  {
     "source": "0.47",
     "targetLang": "vi",
     "translation": "0.47",
@@ -2945,6 +3113,13 @@
     "translation": "0.60",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:04:19.0136105+07:00"
+  },
+  {
+    "source": "0.61",
+    "targetLang": "vi",
+    "translation": "0.61",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:59.5147116Z"
   },
   {
     "source": "0.62",
@@ -3057,6 +3232,13 @@
     "translation": "0.78",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:06:51.0730480+07:00"
+  },
+  {
+    "source": "0.8%",
+    "targetLang": "vi",
+    "translation": "0.8%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:16.8662432Z"
   },
   {
     "source": "0.80",
@@ -3199,11 +3381,32 @@
     "updatedAt": "2026-09-03T11:05:09.2725422+07:00"
   },
   {
+    "source": "1:0.5",
+    "targetLang": "vi",
+    "translation": "1:0.5",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:14.2149751Z"
+  },
+  {
+    "source": "1:1.5",
+    "targetLang": "vi",
+    "translation": "1:1.5",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2156228Z"
+  },
+  {
     "source": "1.00",
     "targetLang": "vi",
     "translation": "1.00",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:04:21.2782836+07:00"
+  },
+  {
+    "source": "1.01",
+    "targetLang": "vi",
+    "translation": "1.01",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:41.8680572Z"
   },
   {
     "source": "1.02",
@@ -3407,6 +3610,13 @@
     "translation": "1.29",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:04:20.1650414+07:00"
+  },
+  {
+    "source": "1.3%",
+    "targetLang": "vi",
+    "translation": "1.3%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:16.8665821Z"
   },
   {
     "source": "1.30",
@@ -4072,6 +4282,1350 @@
     "translation": "10.94",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:11:14.9018719+07:00"
+  },
+  {
+    "source": "1009.01",
+    "targetLang": "vi",
+    "translation": "1009.01",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6434129Z"
+  },
+  {
+    "source": "1009.40",
+    "targetLang": "vi",
+    "translation": "1009.40",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:39.5967369Z"
+  },
+  {
+    "source": "1009.92",
+    "targetLang": "vi",
+    "translation": "1009.92",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:39.5840390Z"
+  },
+  {
+    "source": "1009.94",
+    "targetLang": "vi",
+    "translation": "1009.94",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6431325Z"
+  },
+  {
+    "source": "1012.15",
+    "targetLang": "vi",
+    "translation": "1012.15",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:39.5837232Z"
+  },
+  {
+    "source": "1012.20",
+    "targetLang": "vi",
+    "translation": "1012.20",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6428128Z"
+  },
+  {
+    "source": "1012.55",
+    "targetLang": "vi",
+    "translation": "1012.55",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:30.2084006Z"
+  },
+  {
+    "source": "1013.13",
+    "targetLang": "vi",
+    "translation": "1013.13",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:30.2081496Z"
+  },
+  {
+    "source": "1013.90",
+    "targetLang": "vi",
+    "translation": "1013.90",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5454995Z"
+  },
+  {
+    "source": "1014.13",
+    "targetLang": "vi",
+    "translation": "1014.13",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5452871Z"
+  },
+  {
+    "source": "1014.24",
+    "targetLang": "vi",
+    "translation": "1014.24",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6424912Z"
+  },
+  {
+    "source": "1014.25",
+    "targetLang": "vi",
+    "translation": "1014.25",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:30.2027304Z"
+  },
+  {
+    "source": "1014.51",
+    "targetLang": "vi",
+    "translation": "1014.51",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:44.4279811Z"
+  },
+  {
+    "source": "1015.43",
+    "targetLang": "vi",
+    "translation": "1015.43",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5450564Z"
+  },
+  {
+    "source": "1015.49",
+    "targetLang": "vi",
+    "translation": "1015.49",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2570088Z"
+  },
+  {
+    "source": "1016.04",
+    "targetLang": "vi",
+    "translation": "1016.04",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:39.5834469Z"
+  },
+  {
+    "source": "1016.22",
+    "targetLang": "vi",
+    "translation": "1016.22",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2566967Z"
+  },
+  {
+    "source": "1016.33",
+    "targetLang": "vi",
+    "translation": "1016.33",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5447956Z"
+  },
+  {
+    "source": "1017.62",
+    "targetLang": "vi",
+    "translation": "1017.62",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6295775Z"
+  },
+  {
+    "source": "1017.81",
+    "targetLang": "vi",
+    "translation": "1017.81",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:30.2024864Z"
+  },
+  {
+    "source": "1017.88",
+    "targetLang": "vi",
+    "translation": "1017.88",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2516882Z"
+  },
+  {
+    "source": "1018.10",
+    "targetLang": "vi",
+    "translation": "1018.10",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6294188Z"
+  },
+  {
+    "source": "1018.28",
+    "targetLang": "vi",
+    "translation": "1018.28",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2514020Z"
+  },
+  {
+    "source": "1018.33",
+    "targetLang": "vi",
+    "translation": "1018.33",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6365855Z"
+  },
+  {
+    "source": "1018.54",
+    "targetLang": "vi",
+    "translation": "1018.54",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:39.5831699Z"
+  },
+  {
+    "source": "1018.77",
+    "targetLang": "vi",
+    "translation": "1018.77",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5445140Z"
+  },
+  {
+    "source": "1019.37",
+    "targetLang": "vi",
+    "translation": "1019.37",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:30.2022585Z"
+  },
+  {
+    "source": "1019.96",
+    "targetLang": "vi",
+    "translation": "1019.96",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6292611Z"
+  },
+  {
+    "source": "1020.15",
+    "targetLang": "vi",
+    "translation": "1020.15",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5597151Z"
+  },
+  {
+    "source": "1020.26",
+    "targetLang": "vi",
+    "translation": "1020.26",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:30.2020305Z"
+  },
+  {
+    "source": "1020.37",
+    "targetLang": "vi",
+    "translation": "1020.37",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:14.2217491Z"
+  },
+  {
+    "source": "1020.45",
+    "targetLang": "vi",
+    "translation": "1020.45",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:14.2151546Z"
+  },
+  {
+    "source": "1020.49",
+    "targetLang": "vi",
+    "translation": "1020.49",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5389787Z"
+  },
+  {
+    "source": "1020.54",
+    "targetLang": "vi",
+    "translation": "1020.54",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:39.5828801Z"
+  },
+  {
+    "source": "1020.69",
+    "targetLang": "vi",
+    "translation": "1020.69",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6360242Z"
+  },
+  {
+    "source": "1020.70",
+    "targetLang": "vi",
+    "translation": "1020.70",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5386746Z"
+  },
+  {
+    "source": "1020.77",
+    "targetLang": "vi",
+    "translation": "1020.77",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:30.2017972Z"
+  },
+  {
+    "source": "1020.95",
+    "targetLang": "vi",
+    "translation": "1020.95",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:48.0393176Z"
+  },
+  {
+    "source": "1020.96",
+    "targetLang": "vi",
+    "translation": "1020.96",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2511161Z"
+  },
+  {
+    "source": "1021.07",
+    "targetLang": "vi",
+    "translation": "1021.07",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2149906Z"
+  },
+  {
+    "source": "1021.13",
+    "targetLang": "vi",
+    "translation": "1021.13",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:04.5806823Z"
+  },
+  {
+    "source": "1021.16",
+    "targetLang": "vi",
+    "translation": "1021.16",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:04.5866178Z"
+  },
+  {
+    "source": "1021.20",
+    "targetLang": "vi",
+    "translation": "1021.20",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:39.5825337Z"
+  },
+  {
+    "source": "1021.22",
+    "targetLang": "vi",
+    "translation": "1021.22",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2148493Z"
+  },
+  {
+    "source": "1021.26",
+    "targetLang": "vi",
+    "translation": "1021.26",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:30.2015110Z"
+  },
+  {
+    "source": "1021.28",
+    "targetLang": "vi",
+    "translation": "1021.28",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2508305Z"
+  },
+  {
+    "source": "1021.31",
+    "targetLang": "vi",
+    "translation": "1021.31",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5384224Z"
+  },
+  {
+    "source": "1021.43",
+    "targetLang": "vi",
+    "translation": "1021.43",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:03.3038778Z"
+  },
+  {
+    "source": "1021.44",
+    "targetLang": "vi",
+    "translation": "1021.44",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6291029Z"
+  },
+  {
+    "source": "1021.50",
+    "targetLang": "vi",
+    "translation": "1021.50",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:46.7980462Z"
+  },
+  {
+    "source": "1021.53",
+    "targetLang": "vi",
+    "translation": "1021.53",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:04.5803922Z"
+  },
+  {
+    "source": "1021.55",
+    "targetLang": "vi",
+    "translation": "1021.55",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2155007Z"
+  },
+  {
+    "source": "1021.56",
+    "targetLang": "vi",
+    "translation": "1021.56",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:04.5868195Z"
+  },
+  {
+    "source": "1021.60",
+    "targetLang": "vi",
+    "translation": "1021.60",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:48.0457383Z"
+  },
+  {
+    "source": "1021.61",
+    "targetLang": "vi",
+    "translation": "1021.61",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:46.7986670Z"
+  },
+  {
+    "source": "1021.66",
+    "targetLang": "vi",
+    "translation": "1021.66",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2146405Z"
+  },
+  {
+    "source": "1021.70",
+    "targetLang": "vi",
+    "translation": "1021.70",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:48.0389294Z"
+  },
+  {
+    "source": "1021.74",
+    "targetLang": "vi",
+    "translation": "1021.74",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2437178Z"
+  },
+  {
+    "source": "1021.75",
+    "targetLang": "vi",
+    "translation": "1021.75",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:48.0380551Z"
+  },
+  {
+    "source": "1021.77",
+    "targetLang": "vi",
+    "translation": "1021.77",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5591510Z"
+  },
+  {
+    "source": "1021.80",
+    "targetLang": "vi",
+    "translation": "1021.80",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:46.8041633Z"
+  },
+  {
+    "source": "1021.83",
+    "targetLang": "vi",
+    "translation": "1021.83",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:03.3040045Z"
+  },
+  {
+    "source": "1021.86",
+    "targetLang": "vi",
+    "translation": "1021.86",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2440022Z"
+  },
+  {
+    "source": "1021.87",
+    "targetLang": "vi",
+    "translation": "1021.87",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:44.4290468Z"
+  },
+  {
+    "source": "1021.88",
+    "targetLang": "vi",
+    "translation": "1021.88",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:48.0385486Z"
+  },
+  {
+    "source": "1021.89",
+    "targetLang": "vi",
+    "translation": "1021.89",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6289207Z"
+  },
+  {
+    "source": "1021.91",
+    "targetLang": "vi",
+    "translation": "1021.91",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2181707Z"
+  },
+  {
+    "source": "1021.92",
+    "targetLang": "vi",
+    "translation": "1021.92",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2147465Z"
+  },
+  {
+    "source": "1021.93",
+    "targetLang": "vi",
+    "translation": "1021.93",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:04.5800456Z"
+  },
+  {
+    "source": "1021.94",
+    "targetLang": "vi",
+    "translation": "1021.94",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2505130Z"
+  },
+  {
+    "source": "1021.95",
+    "targetLang": "vi",
+    "translation": "1021.95",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:03.3018174Z"
+  },
+  {
+    "source": "1021.96",
+    "targetLang": "vi",
+    "translation": "1021.96",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2501933Z"
+  },
+  {
+    "source": "1021.97",
+    "targetLang": "vi",
+    "translation": "1021.97",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:46.7989952Z"
+  },
+  {
+    "source": "1021.99",
+    "targetLang": "vi",
+    "translation": "1021.99",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:39.6020945Z"
+  },
+  {
+    "source": "1022.02",
+    "targetLang": "vi",
+    "translation": "1022.02",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:01.9934022Z"
+  },
+  {
+    "source": "1022.03",
+    "targetLang": "vi",
+    "translation": "1022.03",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:03.3015256Z"
+  },
+  {
+    "source": "1022.04",
+    "targetLang": "vi",
+    "translation": "1022.04",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2153784Z"
+  },
+  {
+    "source": "1022.07",
+    "targetLang": "vi",
+    "translation": "1022.07",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:39.5753651Z"
+  },
+  {
+    "source": "1022.09",
+    "targetLang": "vi",
+    "translation": "1022.09",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2186886Z"
+  },
+  {
+    "source": "1022.15",
+    "targetLang": "vi",
+    "translation": "1022.15",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:35.9083117Z"
+  },
+  {
+    "source": "1022.18",
+    "targetLang": "vi",
+    "translation": "1022.18",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6331000Z"
+  },
+  {
+    "source": "1022.20",
+    "targetLang": "vi",
+    "translation": "1022.20",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:35.9087630Z"
+  },
+  {
+    "source": "1022.22",
+    "targetLang": "vi",
+    "translation": "1022.22",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6335262Z"
+  },
+  {
+    "source": "1022.25",
+    "targetLang": "vi",
+    "translation": "1022.25",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5595104Z"
+  },
+  {
+    "source": "1022.26",
+    "targetLang": "vi",
+    "translation": "1022.26",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6338235Z"
+  },
+  {
+    "source": "1022.27",
+    "targetLang": "vi",
+    "translation": "1022.27",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6354715Z"
+  },
+  {
+    "source": "1022.29",
+    "targetLang": "vi",
+    "translation": "1022.29",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6345613Z"
+  },
+  {
+    "source": "1022.31",
+    "targetLang": "vi",
+    "translation": "1022.31",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:34.6340957Z"
+  },
+  {
+    "source": "1022.33",
+    "targetLang": "vi",
+    "translation": "1022.33",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:01.9929563Z"
+  },
+  {
+    "source": "1022.40",
+    "targetLang": "vi",
+    "translation": "1022.40",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:01.9924478Z"
+  },
+  {
+    "source": "1022.41",
+    "targetLang": "vi",
+    "translation": "1022.41",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:21.6613942Z"
+  },
+  {
+    "source": "1022.42",
+    "targetLang": "vi",
+    "translation": "1022.42",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:01.9935141Z"
+  },
+  {
+    "source": "1022.43",
+    "targetLang": "vi",
+    "translation": "1022.43",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:01.9936521Z"
+  },
+  {
+    "source": "1022.45",
+    "targetLang": "vi",
+    "translation": "1022.45",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5599182Z"
+  },
+  {
+    "source": "1022.47",
+    "targetLang": "vi",
+    "translation": "1022.47",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:31.5718657Z"
+  },
+  {
+    "source": "1022.51",
+    "targetLang": "vi",
+    "translation": "1022.51",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:31.5725789Z"
+  },
+  {
+    "source": "1022.52",
+    "targetLang": "vi",
+    "translation": "1022.52",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2152277Z"
+  },
+  {
+    "source": "1022.55",
+    "targetLang": "vi",
+    "translation": "1022.55",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:31.5722917Z"
+  },
+  {
+    "source": "1022.60",
+    "targetLang": "vi",
+    "translation": "1022.60",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:30.2010786Z"
+  },
+  {
+    "source": "1022.62",
+    "targetLang": "vi",
+    "translation": "1022.62",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:27.7007622Z"
+  },
+  {
+    "source": "1022.63",
+    "targetLang": "vi",
+    "translation": "1022.63",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6276796Z"
+  },
+  {
+    "source": "1022.65",
+    "targetLang": "vi",
+    "translation": "1022.65",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:12.8379243Z"
+  },
+  {
+    "source": "1022.67",
+    "targetLang": "vi",
+    "translation": "1022.67",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2151110Z"
+  },
+  {
+    "source": "1022.69",
+    "targetLang": "vi",
+    "translation": "1022.69",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:27.7011670Z"
+  },
+  {
+    "source": "1022.73",
+    "targetLang": "vi",
+    "translation": "1022.73",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:01.9930684Z"
+  },
+  {
+    "source": "1022.75",
+    "targetLang": "vi",
+    "translation": "1022.75",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3038435Z"
+  },
+  {
+    "source": "1022.76",
+    "targetLang": "vi",
+    "translation": "1022.76",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5377841Z"
+  },
+  {
+    "source": "1022.77",
+    "targetLang": "vi",
+    "translation": "1022.77",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:12.8313473Z"
+  },
+  {
+    "source": "1022.78",
+    "targetLang": "vi",
+    "translation": "1022.78",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4174642Z"
+  },
+  {
+    "source": "1022.80",
+    "targetLang": "vi",
+    "translation": "1022.80",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:01.9925639Z"
+  },
+  {
+    "source": "1022.81",
+    "targetLang": "vi",
+    "translation": "1022.81",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:26.5381842Z"
+  },
+  {
+    "source": "1022.84",
+    "targetLang": "vi",
+    "translation": "1022.84",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:01.9919053Z"
+  },
+  {
+    "source": "1022.86",
+    "targetLang": "vi",
+    "translation": "1022.86",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:00.6454847Z"
+  },
+  {
+    "source": "1022.93",
+    "targetLang": "vi",
+    "translation": "1022.93",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2145140Z"
+  },
+  {
+    "source": "1022.98",
+    "targetLang": "vi",
+    "translation": "1022.98",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6279514Z"
+  },
+  {
+    "source": "1023.05",
+    "targetLang": "vi",
+    "translation": "1023.05",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:12.8380973Z"
+  },
+  {
+    "source": "1023.08",
+    "targetLang": "vi",
+    "translation": "1023.08",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2141445Z"
+  },
+  {
+    "source": "1023.09",
+    "targetLang": "vi",
+    "translation": "1023.09",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:12.8317178Z"
+  },
+  {
+    "source": "1023.17",
+    "targetLang": "vi",
+    "translation": "1023.17",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6281122Z"
+  },
+  {
+    "source": "1023.24",
+    "targetLang": "vi",
+    "translation": "1023.24",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6282826Z"
+  },
+  {
+    "source": "1023.25",
+    "targetLang": "vi",
+    "translation": "1023.25",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6287636Z"
+  },
+  {
+    "source": "1023.26",
+    "targetLang": "vi",
+    "translation": "1023.26",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:00.6452086Z"
+  },
+  {
+    "source": "1023.32",
+    "targetLang": "vi",
+    "translation": "1023.32",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:21.6616025Z"
+  },
+  {
+    "source": "1023.34",
+    "targetLang": "vi",
+    "translation": "1023.34",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6284445Z"
+  },
+  {
+    "source": "1023.42",
+    "targetLang": "vi",
+    "translation": "1023.42",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:11.6286024Z"
+  },
+  {
+    "source": "1023.65",
+    "targetLang": "vi",
+    "translation": "1023.65",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:21.6551440Z"
+  },
+  {
+    "source": "1023.66",
+    "targetLang": "vi",
+    "translation": "1023.66",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:21.6611683Z"
+  },
+  {
+    "source": "1023.71",
+    "targetLang": "vi",
+    "translation": "1023.71",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:21.6553692Z"
+  },
+  {
+    "source": "1024.12",
+    "targetLang": "vi",
+    "translation": "1024.12",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2178901Z"
+  },
+  {
+    "source": "1024.22",
+    "targetLang": "vi",
+    "translation": "1024.22",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:21.6555731Z"
+  },
+  {
+    "source": "1024.23",
+    "targetLang": "vi",
+    "translation": "1024.23",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:21.6558498Z"
+  },
+  {
+    "source": "1025.43",
+    "targetLang": "vi",
+    "translation": "1025.43",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:28.9395451Z"
+  },
+  {
+    "source": "1025.93",
+    "targetLang": "vi",
+    "translation": "1025.93",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3037107Z"
+  },
+  {
+    "source": "1026.00",
+    "targetLang": "vi",
+    "translation": "1026.00",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:28.9393214Z"
+  },
+  {
+    "source": "1026.05",
+    "targetLang": "vi",
+    "translation": "1026.05",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2457290Z"
+  },
+  {
+    "source": "1026.65",
+    "targetLang": "vi",
+    "translation": "1026.65",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2115896Z"
+  },
+  {
+    "source": "1026.69",
+    "targetLang": "vi",
+    "translation": "1026.69",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2434243Z"
+  },
+  {
+    "source": "1026.83",
+    "targetLang": "vi",
+    "translation": "1026.83",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4168001Z"
+  },
+  {
+    "source": "1026.84",
+    "targetLang": "vi",
+    "translation": "1026.84",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:32.9451302Z"
+  },
+  {
+    "source": "1027.19",
+    "targetLang": "vi",
+    "translation": "1027.19",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:28.9390646Z"
+  },
+  {
+    "source": "1027.57",
+    "targetLang": "vi",
+    "translation": "1027.57",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2455171Z"
+  },
+  {
+    "source": "1027.61",
+    "targetLang": "vi",
+    "translation": "1027.61",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:28.9388386Z"
+  },
+  {
+    "source": "1028.21",
+    "targetLang": "vi",
+    "translation": "1028.21",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3035742Z"
+  },
+  {
+    "source": "1028.26",
+    "targetLang": "vi",
+    "translation": "1028.26",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:46.7969682Z"
+  },
+  {
+    "source": "1028.51",
+    "targetLang": "vi",
+    "translation": "1028.51",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2113354Z"
+  },
+  {
+    "source": "1028.60",
+    "targetLang": "vi",
+    "translation": "1028.60",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2453073Z"
+  },
+  {
+    "source": "1028.98",
+    "targetLang": "vi",
+    "translation": "1028.98",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:28.9385857Z"
+  },
+  {
+    "source": "1029.09",
+    "targetLang": "vi",
+    "translation": "1029.09",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2430997Z"
+  },
+  {
+    "source": "1029.40",
+    "targetLang": "vi",
+    "translation": "1029.40",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3033834Z"
+  },
+  {
+    "source": "1029.58",
+    "targetLang": "vi",
+    "translation": "1029.58",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2110801Z"
+  },
+  {
+    "source": "1029.85",
+    "targetLang": "vi",
+    "translation": "1029.85",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:32.9440410Z"
+  },
+  {
+    "source": "1029.94",
+    "targetLang": "vi",
+    "translation": "1029.94",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:28.9383337Z"
+  },
+  {
+    "source": "1030.03",
+    "targetLang": "vi",
+    "translation": "1030.03",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:32.9446998Z"
+  },
+  {
+    "source": "1030.07",
+    "targetLang": "vi",
+    "translation": "1030.07",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2450509Z"
+  },
+  {
+    "source": "1030.22",
+    "targetLang": "vi",
+    "translation": "1030.22",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:43.2422957Z"
+  },
+  {
+    "source": "1030.32",
+    "targetLang": "vi",
+    "translation": "1030.32",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:32.9443205Z"
+  },
+  {
+    "source": "1030.62",
+    "targetLang": "vi",
+    "translation": "1030.62",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4163066Z"
+  },
+  {
+    "source": "1030.64",
+    "targetLang": "vi",
+    "translation": "1030.64",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:28.9379284Z"
+  },
+  {
+    "source": "1030.71",
+    "targetLang": "vi",
+    "translation": "1030.71",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:46.7910978Z"
+  },
+  {
+    "source": "1031.26",
+    "targetLang": "vi",
+    "translation": "1031.26",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2108244Z"
+  },
+  {
+    "source": "1031.74",
+    "targetLang": "vi",
+    "translation": "1031.74",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:41.8744706Z"
+  },
+  {
+    "source": "1032.01",
+    "targetLang": "vi",
+    "translation": "1032.01",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2105204Z"
+  },
+  {
+    "source": "1032.03",
+    "targetLang": "vi",
+    "translation": "1032.03",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2448030Z"
+  },
+  {
+    "source": "1032.53",
+    "targetLang": "vi",
+    "translation": "1032.53",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4160001Z"
+  },
+  {
+    "source": "1032.72",
+    "targetLang": "vi",
+    "translation": "1032.72",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:41.8741679Z"
+  },
+  {
+    "source": "1032.96",
+    "targetLang": "vi",
+    "translation": "1032.96",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3032463Z"
+  },
+  {
+    "source": "1033.16",
+    "targetLang": "vi",
+    "translation": "1033.16",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2102380Z"
+  },
+  {
+    "source": "1033.26",
+    "targetLang": "vi",
+    "translation": "1033.26",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:38.2098103Z"
+  },
+  {
+    "source": "1033.55",
+    "targetLang": "vi",
+    "translation": "1033.55",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4157449Z"
+  },
+  {
+    "source": "1033.58",
+    "targetLang": "vi",
+    "translation": "1033.58",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2445850Z"
+  },
+  {
+    "source": "1034.04",
+    "targetLang": "vi",
+    "translation": "1034.04",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:46.7908025Z"
+  },
+  {
+    "source": "1034.76",
+    "targetLang": "vi",
+    "translation": "1034.76",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2443464Z"
+  },
+  {
+    "source": "1034.98",
+    "targetLang": "vi",
+    "translation": "1034.98",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:41.8738327Z"
+  },
+  {
+    "source": "1035.62",
+    "targetLang": "vi",
+    "translation": "1035.62",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:41.8685277Z"
+  },
+  {
+    "source": "1035.93",
+    "targetLang": "vi",
+    "translation": "1035.93",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2383368Z"
+  },
+  {
+    "source": "1037.14",
+    "targetLang": "vi",
+    "translation": "1037.14",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2381307Z"
+  },
+  {
+    "source": "1037.58",
+    "targetLang": "vi",
+    "translation": "1037.58",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2378713Z"
+  },
+  {
+    "source": "1037.97",
+    "targetLang": "vi",
+    "translation": "1037.97",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:46.7904805Z"
+  },
+  {
+    "source": "1038.24",
+    "targetLang": "vi",
+    "translation": "1038.24",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:46.7900203Z"
+  },
+  {
+    "source": "1039.02",
+    "targetLang": "vi",
+    "translation": "1039.02",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4155161Z"
+  },
+  {
+    "source": "1039.17",
+    "targetLang": "vi",
+    "translation": "1039.17",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2376547Z"
+  },
+  {
+    "source": "1039.80",
+    "targetLang": "vi",
+    "translation": "1039.80",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3030953Z"
+  },
+  {
+    "source": "1040.54",
+    "targetLang": "vi",
+    "translation": "1040.54",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3028889Z"
+  },
+  {
+    "source": "1040.65",
+    "targetLang": "vi",
+    "translation": "1040.65",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2374280Z"
+  },
+  {
+    "source": "1041.24",
+    "targetLang": "vi",
+    "translation": "1041.24",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:25.2370940Z"
+  },
+  {
+    "source": "1041.46",
+    "targetLang": "vi",
+    "translation": "1041.46",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4101979Z"
+  },
+  {
+    "source": "1042.86",
+    "targetLang": "vi",
+    "translation": "1042.86",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3027470Z"
+  },
+  {
+    "source": "1044.04",
+    "targetLang": "vi",
+    "translation": "1044.04",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3025486Z"
+  },
+  {
+    "source": "1044.23",
+    "targetLang": "vi",
+    "translation": "1044.23",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4099471Z"
+  },
+  {
+    "source": "1044.24",
+    "targetLang": "vi",
+    "translation": "1044.24",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:10.3020811Z"
+  },
+  {
+    "source": "1044.63",
+    "targetLang": "vi",
+    "translation": "1044.63",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4097135Z"
+  },
+  {
+    "source": "1045.37",
+    "targetLang": "vi",
+    "translation": "1045.37",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:20.4093312Z"
   },
   {
     "source": "11.01",
@@ -4788,6 +6342,13 @@
     "updatedAt": "2026-09-03T11:14:11.8831426+07:00"
   },
   {
+    "source": "2.0%",
+    "targetLang": "vi",
+    "translation": "2.0%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:15.5660833Z"
+  },
+  {
     "source": "2.00",
     "targetLang": "vi",
     "translation": "2.00",
@@ -5166,6 +6727,13 @@
     "updatedAt": "2026-09-03T11:04:33.1090114+07:00"
   },
   {
+    "source": "2.52",
+    "targetLang": "vi",
+    "translation": "2.52",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:32.9430195Z"
+  },
+  {
     "source": "2.52%",
     "targetLang": "vi",
     "translation": "2.52%",
@@ -5439,6 +7007,13 @@
     "updatedAt": "2026-09-03T11:04:26.6356168+07:00"
   },
   {
+    "source": "2.91",
+    "targetLang": "vi",
+    "translation": "2.91",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:27.7014477Z"
+  },
+  {
     "source": "2.92",
     "targetLang": "vi",
     "translation": "2.92",
@@ -5509,9 +7084,9 @@
     "updatedAt": "2026-09-03T11:13:02.1665546+07:00"
   },
   {
-    "source": "20260920修改内容，兴业说这里是桥梁路基段，无法拓宽。因此收窄变成3车道。",
+    "source": "20260920ä¿®æ¹åå®¹ï¼å´ä¸è¯´è¿éæ¯æ¡¥æ¢è·¯åºæ®µï¼æ æ³æå®½ãå æ­¤æ¶çªåæ3è½¦éã",
     "targetLang": "vi",
-    "translation": "20260920修改内容，兴业说这里是桥梁路基段，无法拓宽。因此收窄变成3车道。",
+    "translation": "20260920ä¿®æ¹åå®¹ï¼å´ä¸è¯´è¿éæ¯æ¡¥æ¢è·¯åºæ®µï¼æ æ³æå®½ãå æ­¤æ¶çªåæ3è½¦éã",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-21T01:33:12.6862871Z"
   },
@@ -6223,6 +7798,13 @@
     "updatedAt": "2026-09-03T11:11:21.2769375+07:00"
   },
   {
+    "source": "4.0%",
+    "targetLang": "vi",
+    "translation": "4.0%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:07.9778484Z"
+  },
+  {
     "source": "4.00",
     "targetLang": "vi",
     "translation": "4.00",
@@ -6284,6 +7866,13 @@
     "translation": "4.09",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:55.4511992+07:00"
+  },
+  {
+    "source": "4.10",
+    "targetLang": "vi",
+    "translation": "4.10",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:19.0864500Z"
   },
   {
     "source": "4.11",
@@ -6508,6 +8097,13 @@
     "translation": "4.49",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:04:00.7545326+07:00"
+  },
+  {
+    "source": "4.5%",
+    "targetLang": "vi",
+    "translation": "4.5%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:07.9779789Z"
   },
   {
     "source": "4.50",
@@ -7133,6 +8729,13 @@
     "updatedAt": "2026-09-03T11:05:51.5677028+07:00"
   },
   {
+    "source": "5.82",
+    "targetLang": "vi",
+    "translation": "5.82",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:31.6239826Z"
+  },
+  {
     "source": "5.83",
     "targetLang": "vi",
     "translation": "5.83",
@@ -7229,6 +8832,20 @@
     "translation": "5.98",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:05:37.5204986+07:00"
+  },
+  {
+    "source": "6.0%",
+    "targetLang": "vi",
+    "translation": "6.0%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:17.9863711Z"
+  },
+  {
+    "source": "6.01",
+    "targetLang": "vi",
+    "translation": "6.01",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:07.9781502Z"
   },
   {
     "source": "6.06",
@@ -7476,6 +9093,13 @@
     "updatedAt": "2026-09-03T11:04:02.8784716+07:00"
   },
   {
+    "source": "7.12",
+    "targetLang": "vi",
+    "translation": "7.12",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:19.0860734Z"
+  },
+  {
     "source": "7.15",
     "targetLang": "vi",
     "translation": "7.15",
@@ -7516,6 +9140,13 @@
     "translation": "7.41",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:05:15.7329182+07:00"
+  },
+  {
+    "source": "7.44",
+    "targetLang": "vi",
+    "translation": "7.44",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:09.0416060Z"
   },
   {
     "source": "7.52",
@@ -7917,23 +9548,30 @@
     "updatedAt": "2026-09-03T11:12:07.3750484+07:00"
   },
   {
-    "source": "B_Mặt đường",
+    "source": "999.99",
     "targetLang": "vi",
-    "translation": "B_Mặt đường",
+    "translation": "999.99",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2157496Z"
+  },
+  {
+    "source": "B_Máº·t ÄÆ°á»ng",
+    "targetLang": "vi",
+    "translation": "B_Máº·t ÄÆ°á»ng",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:48.9036198+07:00"
   },
   {
-    "source": "B_Vỉa hè phải",
+    "source": "B_Vá»a hÃ¨ pháº£i",
     "targetLang": "vi",
-    "translation": "B_Vỉa hè phải",
+    "translation": "B_Vá»a hÃ¨ pháº£i",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:48.9031547+07:00"
   },
   {
-    "source": "B_Vỉa hè trái",
+    "source": "B_Vá»a hÃ¨ trÃ¡i",
     "targetLang": "vi",
-    "translation": "B_Vỉa hè trái",
+    "translation": "B_Vá»a hÃ¨ trÃ¡i",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:48.9033905+07:00"
   },
@@ -7945,11 +9583,60 @@
     "updatedAt": "2026-09-03T11:03:55.4393058+07:00"
   },
   {
+    "source": "CHÚ THÍCH",
+    "targetLang": "vi",
+    "translation": "CHÚ THÍCH",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:58.2161301Z"
+  },
+  {
+    "source": "ĐÀO ĐÁ C2 :",
+    "targetLang": "vi",
+    "translation": "ĐÀO ĐÁ C2 :",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:06.7771309Z"
+  },
+  {
+    "source": "ĐÀO ĐƯỜNG CŨ :",
+    "targetLang": "vi",
+    "translation": "ĐÀO ĐƯỜNG CŨ :",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:07.9774185Z"
+  },
+  {
+    "source": "ĐÀO ĐƯỜNG MỚI :",
+    "targetLang": "vi",
+    "translation": "ĐÀO ĐƯỜNG MỚI :",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:07.9772395Z"
+  },
+  {
+    "source": "ĐÀO NỀN :",
+    "targetLang": "vi",
+    "translation": "ĐÀO NỀN :",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:07.9769857Z"
+  },
+  {
+    "source": "ĐẮP NỀN :",
+    "targetLang": "vi",
+    "translation": "ĐẮP NỀN :",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:06.7768572Z"
+  },
+  {
     "source": "KHO\\U+1EA2NG C\\U+00c1CH MIA (m)",
     "targetLang": "vi",
     "translation": "KHO\\U+1EA2NG C\\U+00c1CH MIA (m)",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:55.4324857+07:00"
+  },
+  {
+    "source": "L GIA CỐ MÁI :",
+    "targetLang": "vi",
+    "translation": "L GIA CỐ MÁI :",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:48:06.7764225Z"
   },
   {
     "source": "L_VDKT R12KN/M",
@@ -7966,86 +9653,114 @@
     "updatedAt": "2026-09-03T11:03:50.0271137+07:00"
   },
   {
-    "source": "S_Bù vênh đá mi",
+    "source": "m",
     "targetLang": "vi",
-    "translation": "S_Bù vênh đá mi",
+    "translation": "m",
     "sourceType": "ai-auto",
-    "updatedAt": "2026-09-03T11:09:51.9312798+07:00"
+    "updatedAt": "2026-09-26T02:47:59.5157958Z"
   },
   {
-    "source": "S_Cát đắp K>=0.90",
+    "source": "m2",
     "targetLang": "vi",
-    "translation": "S_Cát đắp K>=0.90",
+    "translation": "m2",
     "sourceType": "ai-auto",
-    "updatedAt": "2026-09-03T11:09:51.9497004+07:00"
+    "updatedAt": "2026-09-26T02:48:06.7772660Z"
   },
   {
-    "source": "S_Chiết giảm đá mi",
+    "source": "MẶT CẮT A-A",
     "targetLang": "vi",
-    "translation": "S_Chiết giảm đá mi",
+    "translation": "MẶT CẮT A-A",
     "sourceType": "ai-auto",
-    "updatedAt": "2026-09-03T11:10:14.1777568+07:00"
+    "updatedAt": "2026-09-26T02:47:58.2160021Z"
   },
   {
-    "source": "S_Đào cống",
+    "source": "RÃNH ĐÀO :",
     "targetLang": "vi",
-    "translation": "S_Đào cống",
+    "translation": "RÃNH ĐÀO :",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-26T02:47:59.5159108Z"
+  },
+  {
+    "source": "S_ÄÃ o cá»ng",
+    "targetLang": "vi",
+    "translation": "S_ÄÃ o cá»ng",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:50.0257553+07:00"
   },
   {
-    "source": "S_Đào HKT",
+    "source": "S_ÄÃ o HKT",
     "targetLang": "vi",
-    "translation": "S_Đào HKT",
+    "translation": "S_ÄÃ o HKT",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:48.9197595+07:00"
   },
   {
-    "source": "S_Đào khuôn đường",
+    "source": "S_ÄÃ o khuÃ´n ÄÆ°á»ng",
     "targetLang": "vi",
-    "translation": "S_Đào khuôn đường",
+    "translation": "S_ÄÃ o khuÃ´n ÄÆ°á»ng",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:50.0261771+07:00"
   },
   {
-    "source": "S_Đào nền",
+    "source": "S_ÄÃ o ná»n",
     "targetLang": "vi",
-    "translation": "S_Đào nền",
+    "translation": "S_ÄÃ o ná»n",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:50.0266062+07:00"
   },
   {
-    "source": "S_Đào phía kè",
+    "source": "S_ÄÃ o phÃ­a kÃ¨",
     "targetLang": "vi",
-    "translation": "S_Đào phía kè",
+    "translation": "S_ÄÃ o phÃ­a kÃ¨",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:50.0263951+07:00"
   },
   {
-    "source": "S_Đắp cát K>=0.95 phía nhà dân",
+    "source": "S_Äáº¯p cÃ¡t K>=0.95 phÃ­a nhÃ  dÃ¢n",
     "targetLang": "vi",
-    "translation": "S_Đắp cát K>=0.95 phía nhà dân",
+    "translation": "S_Äáº¯p cÃ¡t K>=0.95 phÃ­a nhÃ  dÃ¢n",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:48.9102251+07:00"
   },
   {
-    "source": "S_Đắp cát K>=0.95 sau kè",
+    "source": "S_Äáº¯p cÃ¡t K>=0.95 sau kÃ¨",
     "targetLang": "vi",
-    "translation": "S_Đắp cát K>=0.95 sau kè",
+    "translation": "S_Äáº¯p cÃ¡t K>=0.95 sau kÃ¨",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:48.9152490+07:00"
   },
   {
-    "source": "S_Đắp cát nền K>=0.95",
+    "source": "S_Äáº¯p cÃ¡t ná»n K>=0.95",
     "targetLang": "vi",
-    "translation": "S_Đắp cát nền K>=0.95",
+    "translation": "S_Äáº¯p cÃ¡t ná»n K>=0.95",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:03:48.9038489+07:00"
   },
   {
-    "source": "TRẮC NGANG CHI TIẾT TUYẾN PHẢI",
+    "source": "S_BÃ¹ vÃªnh ÄÃ¡ mi",
     "targetLang": "vi",
-    "translation": "TRẮC NGANG CHI TIẾT TUYẾN PHẢI",
+    "translation": "S_BÃ¹ vÃªnh ÄÃ¡ mi",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-03T11:09:51.9312798+07:00"
+  },
+  {
+    "source": "S_CÃ¡t Äáº¯p K>=0.90",
+    "targetLang": "vi",
+    "translation": "S_CÃ¡t Äáº¯p K>=0.90",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-03T11:09:51.9497004+07:00"
+  },
+  {
+    "source": "S_Chiáº¿t giáº£m ÄÃ¡ mi",
+    "targetLang": "vi",
+    "translation": "S_Chiáº¿t giáº£m ÄÃ¡ mi",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-09-03T11:10:14.1777568+07:00"
+  },
+  {
+    "source": "TRáº®C NGANG CHI TIáº¾T TUYáº¾N PHáº¢I",
+    "targetLang": "vi",
+    "translation": "TRáº®C NGANG CHI TIáº¾T TUYáº¾N PHáº¢I",
     "sourceType": "ai-auto",
     "updatedAt": "2026-09-03T11:14:26.9915135+07:00"
   },
