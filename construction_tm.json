@@ -1,493 +1,1949 @@
 [
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;①}",
+    "source": "{\\C1;14.54}\\P{\\C3;14.54}",
+    "targetLang": "en",
+    "translation": "{\\C1;14.54}\\P{\\C3;14.54}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:07.4237989Z"
+  },
+  {
+    "source": "{\\C1;17.31}\\P{\\C3;17.39}",
+    "targetLang": "en",
+    "translation": "{\\C1;17.31}\\P{\\C3;17.39}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6065409Z"
+  },
+  {
+    "source": "{\\C1;17.74}\\P{\\C3;16.28}",
+    "targetLang": "en",
+    "translation": "{\\C1;17.74}\\P{\\C3;16.28}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:13.8483300Z"
+  },
+  {
+    "source": "{\\C1;17.75}\\P{\\C3;16.90}",
+    "targetLang": "en",
+    "translation": "{\\C1;17.75}\\P{\\C3;16.90}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6062217Z"
+  },
+  {
+    "source": "{\\C1;17.82}\\P{\\C3;16.07}",
+    "targetLang": "en",
+    "translation": "{\\C1;17.82}\\P{\\C3;16.07}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7497686Z"
+  },
+  {
+    "source": "{\\C1;18.01}\\P{\\C3;16.08}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.01}\\P{\\C3;16.08}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7505104Z"
+  },
+  {
+    "source": "{\\C1;18.09}\\P{\\C3;17.57}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.09}\\P{\\C3;17.57}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7499476Z"
+  },
+  {
+    "source": "{\\C1;18.12}\\P{\\C3;17.45}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.12}\\P{\\C3;17.45}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7511722Z"
+  },
+  {
+    "source": "{\\C1;18.13\\P\\C3;17.66}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.13\\P\\C3;17.66}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7501569Z"
+  },
+  {
+    "source": "{\\C1;18.20}\\P{\\C3;15.90}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.20}\\P{\\C3;15.90}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7506785Z"
+  },
+  {
+    "source": "{\\C1;18.29}\\P{\\C3;18.36}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.29}\\P{\\C3;18.36}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6063849Z"
+  },
+  {
+    "source": "{\\C1;18.31}\\P{\\C3;17.67}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.31}\\P{\\C3;17.67}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7503318Z"
+  },
+  {
+    "source": "{\\C1;18.33}\\P{\\C3;17.48}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.33}\\P{\\C3;17.48}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:13.8481136Z"
+  },
+  {
+    "source": "{\\C1;18.49}\\P{\\C3;17.42}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.49}\\P{\\C3;17.42}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7508433Z"
+  },
+  {
+    "source": "{\\C1;18.56}\\P{\\C3;18.56}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.56}\\P{\\C3;18.56}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5392067Z"
+  },
+  {
+    "source": "{\\C1;18.80}\\P{\\C3;17.98}",
+    "targetLang": "en",
+    "translation": "{\\C1;18.80}\\P{\\C3;17.98}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7510080Z"
+  },
+  {
+    "source": "{\\C1;19.00}\\P{\\C3;18.00}",
+    "targetLang": "en",
+    "translation": "{\\C1;19.00}\\P{\\C3;18.00}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:13.8485750Z"
+  },
+  {
+    "source": "{\\C1;19.10}\\P{\\C3;17.34}",
+    "targetLang": "en",
+    "translation": "{\\C1;19.10}\\P{\\C3;17.34}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7495926Z"
+  },
+  {
+    "source": "{\\C1;19.12}\\P{\\C3;17.37}",
+    "targetLang": "en",
+    "translation": "{\\C1;19.12}\\P{\\C3;17.37}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:13.8478811Z"
+  },
+  {
+    "source": "{\\C1;19.25}\\P{\\C3;18.05}",
+    "targetLang": "en",
+    "translation": "{\\C1;19.25}\\P{\\C3;18.05}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:13.8474612Z"
+  },
+  {
+    "source": "{\\C1;19.35}\\P{\\C3;18.33}",
+    "targetLang": "en",
+    "translation": "{\\C1;19.35}\\P{\\C3;18.33}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0450427Z"
+  },
+  {
+    "source": "{\\C1;19.36}\\P{\\C3;18.39}",
+    "targetLang": "en",
+    "translation": "{\\C1;19.36}\\P{\\C3;18.39}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7493911Z"
+  },
+  {
+    "source": "{\\C1;19.50}",
+    "targetLang": "en",
+    "translation": "{\\C1;19.50}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6766615Z"
+  },
+  {
+    "source": "{\\C1;19.75}\\P{\\C3;18.39}",
+    "targetLang": "en",
+    "translation": "{\\C1;19.75}\\P{\\C3;18.39}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7485128Z"
+  },
+  {
+    "source": "{\\C1;20.05}\\P{\\C3;20.05}",
+    "targetLang": "en",
+    "translation": "{\\C1;20.05}\\P{\\C3;20.05}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:07.4245841Z"
+  },
+  {
+    "source": "{\\C1;20.20}\\P{\\C3;18.39}",
+    "targetLang": "en",
+    "translation": "{\\C1;20.20}\\P{\\C3;18.39}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7491749Z"
+  },
+  {
+    "source": "{\\C1;20.22}\\P{\\C3;18.36}",
+    "targetLang": "en",
+    "translation": "{\\C1;20.22}\\P{\\C3;18.36}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:07.4239714Z"
+  },
+  {
+    "source": "{\\C1;20.33}\\P{\\C3;17.37}",
+    "targetLang": "en",
+    "translation": "{\\C1;20.33}\\P{\\C3;17.37}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6768332Z"
+  },
+  {
+    "source": "{\\C1;20.69}\\P{\\C3;18.46}",
+    "targetLang": "en",
+    "translation": "{\\C1;20.69}\\P{\\C3;18.46}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:12.7489564Z"
+  },
+  {
+    "source": "{\\C1;20.70}\\P{\\C3;19.00}",
+    "targetLang": "en",
+    "translation": "{\\C1;20.70}\\P{\\C3;19.00}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:07.4241332Z"
+  },
+  {
+    "source": "{\\C1;21.00}\\P{\\C3;19.85}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.00}\\P{\\C3;19.85}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:07.4242795Z"
+  },
+  {
+    "source": "{\\C1;21.14}\\P{\\C3;20.20}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.14}\\P{\\C3;20.20}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:07.4235815Z"
+  },
+  {
+    "source": "{\\C1;21.21}\\P{\\C3;21.21}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.21}\\P{\\C3;21.21}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6054035Z"
+  },
+  {
+    "source": "{\\C1;21.48}\\P{\\C3;19.31}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.48}\\P{\\C3;19.31}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:02.2307348Z"
+  },
+  {
+    "source": "{\\C1;21.49}\\P{\\C3;18.88}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.49}\\P{\\C3;18.88}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6075991Z"
+  },
+  {
+    "source": "{\\C1;21.58}\\P{\\C3;19.93}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.58}\\P{\\C3;19.93}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6074476Z"
+  },
+  {
+    "source": "{\\C1;21.60}\\P{\\C3;19.93}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.60}\\P{\\C3;19.93}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5383694Z"
+  },
+  {
+    "source": "{\\C1;21.64}\\P{\\C3;18.99}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.64}\\P{\\C3;18.99}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6077559Z"
+  },
+  {
+    "source": "{\\C1;21.76\\P\\C3;19.58}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.76\\P\\C3;19.58}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6764849Z"
+  },
+  {
+    "source": "{\\C1;21.79}\\P{\\C3;19.93}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.79}\\P{\\C3;19.93}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5382043Z"
+  },
+  {
+    "source": "{\\C1;21.86}\\P{\\C3;20.96}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.86}\\P{\\C3;20.96}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:07.4247299Z"
+  },
+  {
+    "source": "{\\C1;21.87}\\P{\\C3;22.77}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.87}\\P{\\C3;22.77}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:07.4244371Z"
+  },
+  {
+    "source": "{\\C1;21.89}\\P{\\C3;21.89}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.89}\\P{\\C3;21.89}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6060515Z"
+  },
+  {
+    "source": "{\\C1;21.92}\\P{\\C3;20.84}",
+    "targetLang": "en",
+    "translation": "{\\C1;21.92}\\P{\\C3;20.84}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6761107Z"
+  },
+  {
+    "source": "{\\C1;22.00}\\P{\\C3;20.35}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.00}\\P{\\C3;20.35}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6072982Z"
+  },
+  {
+    "source": "{\\C1;22.00\\P\\C3;19.80}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.00\\P\\C3;19.80}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5385296Z"
+  },
+  {
+    "source": "{\\C1;22.03}\\P{\\C3;21.25}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.03}\\P{\\C3;21.25}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6757440Z"
+  },
+  {
+    "source": "{\\C1;22.04}\\P{\\C3;21.30}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.04}\\P{\\C3;21.30}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6699209Z"
+  },
+  {
+    "source": "{\\C1;22.05}\\P{\\C3;19.93}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.05}\\P{\\C3;19.93}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5379894Z"
+  },
+  {
+    "source": "{\\C1;22.11}\\P{\\C3;21.12}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.11}\\P{\\C3;21.12}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6759404Z"
+  },
+  {
+    "source": "{\\C1;22.11}\\P{\\C3;21.26}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.11}\\P{\\C3;21.26}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6694064Z"
+  },
+  {
+    "source": "{\\C1;22.24\\P\\C3;20.52}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.24\\P\\C3;20.52}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6762843Z"
+  },
+  {
+    "source": "{\\C1;22.34}\\P{\\C3;21.15}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.34}\\P{\\C3;21.15}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6695808Z"
+  },
+  {
+    "source": "{\\C1;22.36}\\P{\\C3;21.37}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.36}\\P{\\C3;21.37}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5386857Z"
+  },
+  {
+    "source": "{\\C1;22.39}\\P{\\C3;21.11}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.39}\\P{\\C3;21.11}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6692108Z"
+  },
+  {
+    "source": "{\\C1;22.45}\\P{\\C3;20.87}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.45}\\P{\\C3;20.87}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5388669Z"
+  },
+  {
+    "source": "{\\C1;22.45}\\P{\\C3;21.46}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.45}\\P{\\C3;21.46}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6071477Z"
+  },
+  {
+    "source": "{\\C1;22.48}\\P{\\C3;21.15}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.48}\\P{\\C3;21.15}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5377627Z"
+  },
+  {
+    "source": "{\\C1;22.48\\P\\C3;21.43}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.48\\P\\C3;21.43}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6697469Z"
+  },
+  {
+    "source": "{\\C1;22.51}\\P{\\C3;21.90}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.51}\\P{\\C3;21.90}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6700863Z"
+  },
+  {
+    "source": "{\\C1;22.60}\\P{\\C3;21.45}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.60}\\P{\\C3;21.45}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:01.1913520Z"
+  },
+  {
+    "source": "{\\C1;22.75}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.75}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5390472Z"
+  },
+  {
+    "source": "{\\C1;22.78}\\P{\\C3;20.74}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.78}\\P{\\C3;20.74}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6080597Z"
+  },
+  {
+    "source": "{\\C1;22.82}\\P{\\C3;21.23}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.82}\\P{\\C3;21.23}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6687529Z"
+  },
+  {
+    "source": "{\\C1;22.83}\\P{\\C3;20.97}",
+    "targetLang": "en",
+    "translation": "{\\C1;22.83}\\P{\\C3;20.97}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6079068Z"
+  },
+  {
+    "source": "{\\C1;23.00}\\P{\\C3;21.88}",
+    "targetLang": "en",
+    "translation": "{\\C1;23.00}\\P{\\C3;21.88}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:11.6702593Z"
+  },
+  {
+    "source": "{\\C1;23.88}\\P{\\C3;23.88}",
+    "targetLang": "en",
+    "translation": "{\\C1;23.88}\\P{\\C3;23.88}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6058294Z"
+  },
+  {
+    "source": "{\\C1;24.16}\\P{\\C3;24.11}",
+    "targetLang": "en",
+    "translation": "{\\C1;24.16}\\P{\\C3;24.11}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6069944Z"
+  },
+  {
+    "source": "{\\C1;25.87}\\P{\\C3;25.87}",
+    "targetLang": "en",
+    "translation": "{\\C1;25.87}\\P{\\C3;25.87}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:10.6067723Z"
+  },
+  {
+    "source": "{\\LGHI CHÚ:}",
+    "targetLang": "en",
+    "translation": "{\\LGHI CHÚ:}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0434693Z"
+  },
+  {
+    "source": "%%UCHÚ THÍCH:",
+    "targetLang": "en",
+    "translation": "%%UCHÚ THÍCH:",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1408621Z"
+  },
+  {
+    "source": "0,0%%%",
+    "targetLang": "en",
+    "translation": "0,0%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:03.2656695Z"
+  },
+  {
+    "source": "0,04%%%",
+    "targetLang": "en",
+    "translation": "0,04%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:05.3544634Z"
+  },
+  {
+    "source": "0,22%%%",
+    "targetLang": "en",
+    "translation": "0,22%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:03.2665820Z"
+  },
+  {
+    "source": "0,23%%%",
+    "targetLang": "en",
+    "translation": "0,23%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:03.2652181Z"
+  },
+  {
+    "source": "0,28%%%",
+    "targetLang": "en",
+    "translation": "0,28%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3149070Z"
+  },
+  {
+    "source": "0,3%%%",
+    "targetLang": "en",
+    "translation": "0,3%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:01.1916084Z"
+  },
+  {
+    "source": "0,31%%%",
+    "targetLang": "en",
+    "translation": "0,31%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:03.2658444Z"
+  },
+  {
+    "source": "0,34%%%",
+    "targetLang": "en",
+    "translation": "0,34%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:06.3779523Z"
+  },
+  {
+    "source": "0,40%%%",
+    "targetLang": "en",
+    "translation": "0,40%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:02.2315113Z"
+  },
+  {
+    "source": "0,45%%%",
+    "targetLang": "en",
+    "translation": "0,45%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:06.3784426Z"
+  },
+  {
+    "source": "0,50%%%",
+    "targetLang": "en",
+    "translation": "0,50%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:02.2313737Z"
+  },
+  {
+    "source": "0,54%%%",
+    "targetLang": "en",
+    "translation": "0,54%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:03.2661897Z"
+  },
+  {
+    "source": "0,57%%%",
+    "targetLang": "en",
+    "translation": "0,57%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:05.3541732Z"
+  },
+  {
+    "source": "0,61%%%",
+    "targetLang": "en",
+    "translation": "0,61%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3147021Z"
+  },
+  {
+    "source": "0,63%%%",
+    "targetLang": "en",
+    "translation": "0,63%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:02.2328876Z"
+  },
+  {
+    "source": "0,67%%%",
+    "targetLang": "en",
+    "translation": "0,67%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:02.2320850Z"
+  },
+  {
+    "source": "0,69%%%",
+    "targetLang": "en",
+    "translation": "0,69%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1420591Z"
+  },
+  {
+    "source": "0,70%%%",
+    "targetLang": "en",
+    "translation": "0,70%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:05.3543171Z"
+  },
+  {
+    "source": "0,71%%%",
+    "targetLang": "en",
+    "translation": "0,71%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:03.2660475Z"
+  },
+  {
+    "source": "0,72%%%",
+    "targetLang": "en",
+    "translation": "0,72%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:05.3540036Z"
+  },
+  {
+    "source": "0,78%%%",
+    "targetLang": "en",
+    "translation": "0,78%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:06.3790443Z"
+  },
+  {
+    "source": "0,82%%%",
+    "targetLang": "en",
+    "translation": "0,82%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:03.2663274Z"
+  },
+  {
+    "source": "0,84%%%",
+    "targetLang": "en",
+    "translation": "0,84%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:06.3775124Z"
+  },
+  {
+    "source": "0,90%%%",
+    "targetLang": "en",
+    "translation": "0,90%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3126298Z"
+  },
+  {
+    "source": "0,91%%%",
+    "targetLang": "en",
+    "translation": "0,91%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:06.3786048Z"
+  },
+  {
+    "source": "0,92%%%",
+    "targetLang": "en",
+    "translation": "0,92%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3142778Z"
+  },
+  {
+    "source": "01",
+    "targetLang": "en",
+    "translation": "01",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1415060Z"
+  },
+  {
+    "source": "1,0%%%",
+    "targetLang": "en",
+    "translation": "1,0%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:01.1917280Z"
+  },
+  {
+    "source": "1,01%%%",
+    "targetLang": "en",
+    "translation": "1,01%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1427392Z"
+  },
+  {
+    "source": "1,02%%%",
+    "targetLang": "en",
+    "translation": "1,02%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:05.3538081Z"
+  },
+  {
+    "source": "1,1%%%",
+    "targetLang": "en",
+    "translation": "1,1%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1429564Z"
+  },
+  {
+    "source": "1,20%%%",
+    "targetLang": "en",
+    "translation": "1,20%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3139346Z"
+  },
+  {
+    "source": "1,36%%%",
+    "targetLang": "en",
+    "translation": "1,36%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:05.3546004Z"
+  },
+  {
+    "source": "1,5%%%",
+    "targetLang": "en",
+    "translation": "1,5%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1425054Z"
+  },
+  {
+    "source": "1,93%%%",
+    "targetLang": "en",
+    "translation": "1,93%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:06.3787396Z"
+  },
+  {
+    "source": "1,95%%%",
+    "targetLang": "en",
+    "translation": "1,95%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:06.3782934Z"
+  },
+  {
+    "source": "10",
+    "targetLang": "en",
+    "translation": "10",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9320387Z"
+  },
+  {
+    "source": "11",
+    "targetLang": "en",
+    "translation": "11",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9078592Z"
+  },
+  {
+    "source": "12",
+    "targetLang": "en",
+    "translation": "12",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9077591Z"
+  },
+  {
+    "source": "14",
+    "targetLang": "en",
+    "translation": "14",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9076559Z"
+  },
+  {
+    "source": "15",
+    "targetLang": "en",
+    "translation": "15",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9075209Z"
+  },
+  {
+    "source": "16",
+    "targetLang": "en",
+    "translation": "16",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9073790Z"
+  },
+  {
+    "source": "17",
+    "targetLang": "en",
+    "translation": "17",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9072288Z"
+  },
+  {
+    "source": "18",
+    "targetLang": "en",
+    "translation": "18",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9057102Z"
+  },
+  {
+    "source": "19",
+    "targetLang": "en",
+    "translation": "19",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9063141Z"
+  },
+  {
+    "source": "1A",
+    "targetLang": "en",
+    "translation": "1A",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9332826Z"
+  },
+  {
+    "source": "1B",
+    "targetLang": "en",
+    "translation": "1B",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9331824Z"
+  },
+  {
+    "source": "1C",
+    "targetLang": "en",
+    "translation": "1C",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9330832Z"
+  },
+  {
+    "source": "1D",
+    "targetLang": "en",
+    "translation": "1D",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9316619Z"
+  },
+  {
+    "source": "1E",
+    "targetLang": "en",
+    "translation": "1E",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9067475Z"
+  },
+  {
+    "source": "2",
+    "targetLang": "en",
+    "translation": "2",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9329816Z"
+  },
+  {
+    "source": "2,0%%%",
+    "targetLang": "en",
+    "translation": "2,0%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1423928Z"
+  },
+  {
+    "source": "2,00%%%",
+    "targetLang": "en",
+    "translation": "2,00%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1419417Z"
+  },
+  {
+    "source": "2,03%%%",
+    "targetLang": "en",
+    "translation": "2,03%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:05.3534322Z"
+  },
+  {
+    "source": "2,06%%%",
+    "targetLang": "en",
+    "translation": "2,06%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:07.4231569Z"
+  },
+  {
+    "source": "2,25%%%",
+    "targetLang": "en",
+    "translation": "2,25%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3152155Z"
+  },
+  {
+    "source": "2,40%%%",
+    "targetLang": "en",
+    "translation": "2,40%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3144943Z"
+  },
+  {
+    "source": "2,51%%%",
+    "targetLang": "en",
+    "translation": "2,51%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:02.2311945Z"
+  },
+  {
+    "source": "2,60%%%",
+    "targetLang": "en",
+    "translation": "2,60%%%",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3134130Z"
+  },
+  {
+    "source": "20",
+    "targetLang": "en",
+    "translation": "20",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9069785Z"
+  },
+  {
+    "source": "3",
+    "targetLang": "en",
+    "translation": "3",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9079588Z"
+  },
+  {
+    "source": "4",
+    "targetLang": "en",
+    "translation": "4",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9328757Z"
+  },
+  {
+    "source": "5",
+    "targetLang": "en",
+    "translation": "5",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9327559Z"
+  },
+  {
+    "source": "6",
+    "targetLang": "en",
+    "translation": "6",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9325679Z"
+  },
+  {
+    "source": "7",
+    "targetLang": "en",
+    "translation": "7",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9324086Z"
+  },
+  {
+    "source": "8",
+    "targetLang": "en",
+    "translation": "8",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9322972Z"
+  },
+  {
+    "source": "9",
+    "targetLang": "en",
+    "translation": "9",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9321782Z"
+  },
+  {
+    "source": "BÃI ĐẬU CONTAINER",
+    "targetLang": "en",
+    "translation": "BÃI ĐẬU CONTAINER",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9677950Z"
+  },
+  {
+    "source": "BÃI ĐẬU Ô TÔ",
+    "targetLang": "en",
+    "translation": "BÃI ĐẬU Ô TÔ",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9680853Z"
+  },
+  {
+    "source": "BÃI ĐẬU XE KHÁCH",
+    "targetLang": "en",
+    "translation": "BÃI ĐẬU XE KHÁCH",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9679307Z"
+  },
+  {
+    "source": "BỂ CHỨA NƯỚC PCCC",
+    "targetLang": "en",
+    "translation": "BỂ CHỨA NƯỚC PCCC",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9333918Z"
+  },
+  {
+    "source": "BÌNH ĐỒ GIAO THÔNG",
+    "targetLang": "en",
+    "translation": "BÌNH ĐỒ GIAO THÔNG",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1416440Z"
+  },
+  {
+    "source": "BÓ VỈA LOẠI 1",
+    "targetLang": "en",
+    "translation": "BÓ VỈA LOẠI 1",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0438801Z"
+  },
+  {
+    "source": "BÓ VỈA LOẠI 2",
+    "targetLang": "en",
+    "translation": "BÓ VỈA LOẠI 2",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0437765Z"
+  },
+  {
+    "source": "CAO ĐỘ THIẾT KẾ TIM ĐƯỜNG HOÀN THIỆN",
+    "targetLang": "en",
+    "translation": "CAO ĐỘ THIẾT KẾ TIM ĐƯỜNG HOÀN THIỆN",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0444985Z"
+  },
+  {
+    "source": "CAO ĐỘ TỰ NHIÊN",
+    "targetLang": "en",
+    "translation": "CAO ĐỘ TỰ NHIÊN",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0439990Z"
+  },
+  {
+    "source": "CÂY XANH CẢNH QUAN",
+    "targetLang": "en",
+    "translation": "CÂY XANH CẢNH QUAN",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9337136Z"
+  },
+  {
+    "source": "CHỈ GIỚI XÂY DỰNG",
+    "targetLang": "en",
+    "translation": "CHỈ GIỚI XÂY DỰNG",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9676324Z"
+  },
+  {
+    "source": "CỘT CỜ",
+    "targetLang": "en",
+    "translation": "CỘT CỜ",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9070751Z"
+  },
+  {
+    "source": "ĐẤT DỰ TRỮ PHÁT TRIỂN DỊCH VỤ HẬU CẦN",
+    "targetLang": "en",
+    "translation": "ĐẤT DỰ TRỮ PHÁT TRIỂN DỊCH VỤ HẬU CẦN",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9065354Z"
+  },
+  {
+    "source": "ĐOẠN CHUYỂN LÀN HÌNH NÊM GĐ1",
+    "targetLang": "en",
+    "translation": "ĐOẠN CHUYỂN LÀN HÌNH NÊM GĐ1",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3158878Z"
+  },
+  {
+    "source": "ĐOẠN GIẢM TỐC",
+    "targetLang": "en",
+    "translation": "ĐOẠN GIẢM TỐC",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3154249Z"
+  },
+  {
+    "source": "ĐOẠN TĂNG TỐC GĐ1",
+    "targetLang": "en",
+    "translation": "ĐOẠN TĂNG TỐC GĐ1",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:04.3157423Z"
+  },
+  {
+    "source": "ĐƯỜNG NỘI BỘ, SÂN LÁT GẠCH",
+    "targetLang": "en",
+    "translation": "ĐƯỜNG NỘI BỘ, SÂN LÁT GẠCH",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9662476Z"
+  },
+  {
+    "source": "GIAO THÔNG",
+    "targetLang": "en",
+    "translation": "GIAO THÔNG",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:00.1418163Z"
+  },
+  {
+    "source": "KHU TẬP KẾT RÁC",
+    "targetLang": "en",
+    "translation": "KHU TẬP KẾT RÁC",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0427587Z"
+  },
+  {
+    "source": "KHU VỆ SINH",
+    "targetLang": "en",
+    "translation": "KHU VỆ SINH",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9665961Z"
+  },
+  {
+    "source": "KHU VỰC RỬA XE",
+    "targetLang": "en",
+    "translation": "KHU VỰC RỬA XE",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9656736Z"
+  },
+  {
+    "source": "KHU VUI CHƠI NGHỈ NGƠI CÓ MÁI CHE",
+    "targetLang": "en",
+    "translation": "KHU VUI CHƠI NGHỈ NGƠI CÓ MÁI CHE",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9660787Z"
+  },
+  {
+    "source": "KHU VUI CHƠI NGHỈ NGƠI NGOÀI TRỜI",
+    "targetLang": "en",
+    "translation": "KHU VUI CHƠI NGHỈ NGƠI NGOÀI TRỜI",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:56.9335418Z"
+  },
+  {
+    "source": "NHÀ ĐẶT MÁY PHÁT ĐIỆN DỰ PHÒNG",
+    "targetLang": "en",
+    "translation": "NHÀ ĐẶT MÁY PHÁT ĐIỆN DỰ PHÒNG",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0430429Z"
+  },
+  {
+    "source": "NHÀ ĐỂ XE MÁY NHÂN VIÊN",
+    "targetLang": "en",
+    "translation": "NHÀ ĐỂ XE MÁY NHÂN VIÊN",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9669398Z"
+  },
+  {
+    "source": "NHÀ DỊCH VỤ",
+    "targetLang": "en",
+    "translation": "NHÀ DỊCH VỤ",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9667393Z"
+  },
+  {
+    "source": "NHÀ KHO",
+    "targetLang": "en",
+    "translation": "NHÀ KHO",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9061530Z"
+  },
+  {
+    "source": "RANH ĐẤT",
+    "targetLang": "en",
+    "translation": "RANH ĐẤT",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0435710Z"
+  },
+  {
+    "source": "RANH GIỚI GPMB \\PTHUỘC CAO TỐC",
+    "targetLang": "en",
+    "translation": "RANH GIỚI GPMB \\PTHUỘC CAO TỐC",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9674233Z"
+  },
+  {
+    "source": "SỬA CHỮA PHƯƠNG TIỆN",
+    "targetLang": "en",
+    "translation": "SỬA CHỮA PHƯƠNG TIỆN",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9664853Z"
+  },
+  {
+    "source": "TIM ĐƯỜNG CAO \\PTỐC HIỆN TRẠNG",
+    "targetLang": "en",
+    "translation": "TIM ĐƯỜNG CAO \\PTỐC HIỆN TRẠNG",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9668400Z"
+  },
+  {
+    "source": "TIM ĐƯỜNG THIẾT KẾ",
+    "targetLang": "en",
+    "translation": "TIM ĐƯỜNG THIẾT KẾ",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0436724Z"
+  },
+  {
+    "source": "TRẠM BIẾN ÁP",
+    "targetLang": "en",
+    "translation": "TRẠM BIẾN ÁP",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0424272Z"
+  },
+  {
+    "source": "TRẠM CẤP NHIÊN LIỆU",
+    "targetLang": "en",
+    "translation": "TRẠM CẤP NHIÊN LIỆU",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0433653Z"
+  },
+  {
+    "source": "TRẠM CẤP NƯỚC, TRẠM BƠM, BỂ CHỨA",
+    "targetLang": "en",
+    "translation": "TRẠM CẤP NƯỚC, TRẠM BƠM, BỂ CHỨA",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0431560Z"
+  },
+  {
+    "source": "TRẠM SẠC FLASH CHARGE",
+    "targetLang": "en",
+    "translation": "TRẠM SẠC FLASH CHARGE",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:55.9068674Z"
+  },
+  {
+    "source": "TRẠM SẠC XE ĐIỆN",
+    "targetLang": "en",
+    "translation": "TRẠM SẠC XE ĐIỆN",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9670377Z"
+  },
+  {
+    "source": "TRẠM XỬ LÝ NƯỚC THẢI",
+    "targetLang": "en",
+    "translation": "TRẠM XỬ LÝ NƯỚC THẢI",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0429136Z"
+  },
+  {
+    "source": "TƯỜNG RÀO",
+    "targetLang": "en",
+    "translation": "TƯỜNG RÀO",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:57.9663737Z"
+  },
+  {
+    "source": "TUYẾN P1",
+    "targetLang": "en",
+    "translation": "TUYẾN P1",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:01.1905459Z"
+  },
+  {
+    "source": "TUYẾN P10",
+    "targetLang": "en",
+    "translation": "TUYẾN P10",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4746638Z"
+  },
+  {
+    "source": "TUYẾN P2",
+    "targetLang": "en",
+    "translation": "TUYẾN P2",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5375584Z"
+  },
+  {
+    "source": "TUYẾN P3",
+    "targetLang": "en",
+    "translation": "TUYẾN P3",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5373347Z"
+  },
+  {
+    "source": "TUYẾN P4",
+    "targetLang": "en",
+    "translation": "TUYẾN P4",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5371394Z"
+  },
+  {
+    "source": "TUYẾN P5",
+    "targetLang": "en",
+    "translation": "TUYẾN P5",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5369243Z"
+  },
+  {
+    "source": "TUYẾN P6",
+    "targetLang": "en",
+    "translation": "TUYẾN P6",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:09.5364972Z"
+  },
+  {
+    "source": "TUYẾN P7",
+    "targetLang": "en",
+    "translation": "TUYẾN P7",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4779431Z"
+  },
+  {
+    "source": "TUYẾN P8",
+    "targetLang": "en",
+    "translation": "TUYẾN P8",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4777608Z"
+  },
+  {
+    "source": "TUYẾN P9",
+    "targetLang": "en",
+    "translation": "TUYẾN P9",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4775646Z"
+  },
+  {
+    "source": "TUYẾN T1",
+    "targetLang": "en",
+    "translation": "TUYẾN T1",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:01.1911944Z"
+  },
+  {
+    "source": "TUYẾN T10",
+    "targetLang": "en",
+    "translation": "TUYẾN T10",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4759131Z"
+  },
+  {
+    "source": "TUYẾN T11",
+    "targetLang": "en",
+    "translation": "TUYẾN T11",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4756067Z"
+  },
+  {
+    "source": "TUYẾN T2",
+    "targetLang": "en",
+    "translation": "TUYẾN T2",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4773091Z"
+  },
+  {
+    "source": "TUYẾN T3",
+    "targetLang": "en",
+    "translation": "TUYẾN T3",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4770905Z"
+  },
+  {
+    "source": "TUYẾN T4",
+    "targetLang": "en",
+    "translation": "TUYẾN T4",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4769409Z"
+  },
+  {
+    "source": "TUYẾN T5",
+    "targetLang": "en",
+    "translation": "TUYẾN T5",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4767506Z"
+  },
+  {
+    "source": "TUYẾN T6",
+    "targetLang": "en",
+    "translation": "TUYẾN T6",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4765922Z"
+  },
+  {
+    "source": "TUYẾN T7",
+    "targetLang": "en",
+    "translation": "TUYẾN T7",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4764377Z"
+  },
+  {
+    "source": "TUYẾN T8",
+    "targetLang": "en",
+    "translation": "TUYẾN T8",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4752781Z"
+  },
+  {
+    "source": "TUYẾN T9",
+    "targetLang": "en",
+    "translation": "TUYẾN T9",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:51:08.4761795Z"
+  },
+  {
+    "source": "XƯỞNG BẢO DƯỠNG,",
+    "targetLang": "en",
+    "translation": "XƯỞNG BẢO DƯỠNG,",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T18:50:59.0432637Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;①}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:52.9919187Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;①ST11至车辆段第一天(白天)：\\P    两台旋挖钻同时施工，每2个墩为一个施工单元，形成循环施工。钻孔时产生钻渣48m³/孔，共计96m³。每台泥浆车容积12m³，需用8台泥浆车清运。\\P①\tST11 to Depot, Day 1 (Daytime):\nTwo rotary drilling rigs operate simultaneously. Every 2 piers form one construction unit to realize cyclic construction. Drilling spoil generated during boring is 48m³ per borehole with a total of 96m³. Each slurry truck has a capacity of 12m³, and 8 slurry trucks are required for removal.}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â ST11è³è½¦è¾æ®µç¬¬ä¸å¤©(ç½å¤©)ï¼\\P    ä¸¤å°ææé»åæ¶æ½å·¥ï¼æ¯2ä¸ªå¢©ä¸ºä¸ä¸ªæ½å·¥ååï¼å½¢æå¾ªç¯æ½å·¥ãé»å­æ¶äº§çé»æ¸£48mÂ³/å­ï¼å±è®¡96mÂ³ãæ¯å°æ³¥æµè½¦å®¹ç§¯12mÂ³ï¼éç¨8å°æ³¥æµè½¦æ¸è¿ã\\Pâ \tST11 to Depot, Day 1 (Daytime):\nTwo rotary drilling rigs operate simultaneously. Every 2 piers form one construction unit to realize cyclic construction. Drilling spoil generated during boring is 48mÂ³ per borehole with a total of 96mÂ³. Each slurry truck has a capacity of 12mÂ³, and 8 slurry trucks are required for removal.}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;①ST11至车辆段第一天(白天)：\\P 两台旋挖钻同时施工，每2个墩为一个施工单元，形成循环施工。钻孔时产生钻渣48m³/孔，共计96m³。每台泥浆车容积12m³，需用8台泥浆车清运。\\P① ST11 to Depot, Day 1 (Daytime): Two rotary drilling rigs operate simultaneously. Every 2 piers form one construction unit to realize cyclic construction. Drilling spoil generated during boring is 48m³ per borehole with a total of 96m³. Each slurry truck has a capacity of 12m³, and 8 slurry trucks are required for removal.}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â ST11è³è½¦è¾æ®µç¬¬ä¸å¤©(ç½å¤©)ï¼\\P ä¸¤å°ææé»åæ¶æ½å·¥ï¼æ¯2ä¸ªå¢©ä¸ºä¸ä¸ªæ½å·¥ååï¼å½¢æå¾ªç¯æ½å·¥ãé»å­æ¶äº§çé»æ¸£48mÂ³/å­ï¼å±è®¡96mÂ³ãæ¯å°æ³¥æµè½¦å®¹ç§¯12mÂ³ï¼éç¨8å°æ³¥æµè½¦æ¸è¿ã\\Pâ  ST11 to Depot, Day 1 (Daytime): Two rotary drilling rigs operate simultaneously. Every 2 piers form one construction unit to realize cyclic construction. Drilling spoil generated during boring is 48mÂ³ per borehole with a total of 96mÂ³. Each slurry truck has a capacity of 12mÂ³, and 8 slurry trucks are required for removal.}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:15.4689629Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;②}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¡}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;②}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¡}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:52.9917903Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;②ST11至车辆段第一天（傍晚）：\\P    桩基成孔验收完毕，开始钢筋笼吊装作业，使用50t履带吊,作业半径11m，钢筋笼分三次吊装。\\P②\tST11 to Depot, Day 1 (Evening):\nAfter inspection and acceptance of completed boreholes for pile foundations, reinforcement cage lifting works commence. A 50t crawler crane is adopted with an operating radius of 11m, and the reinforcement cage is lifted in three segments.}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¡ST11è³è½¦è¾æ®µç¬¬ä¸å¤©ï¼åæï¼ï¼\\P    æ¡©åºæå­éªæ¶å®æ¯ï¼å¼å§é¢ç­ç¬¼åè£ä½ä¸ï¼ä½¿ç¨50tå±¥å¸¦å,ä½ä¸åå¾11mï¼é¢ç­ç¬¼åä¸æ¬¡åè£ã\\Pâ¡\tST11 to Depot, Day 1 (Evening):\nAfter inspection and acceptance of completed boreholes for pile foundations, reinforcement cage lifting works commence. A 50t crawler crane is adopted with an operating radius of 11m, and the reinforcement cage is lifted in three segments.}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;②ST11至车辆段第一天（傍晚）：\\P 桩基成孔验收完毕，开始钢筋笼吊装作业，使用50t履带吊,作业半径11m，钢筋笼分三次吊装。\\P② ST11 to Depot, Day 1 (Evening): After inspection and acceptance of completed boreholes for cọc foundations, reinforcement cage lifting works commence. A 50t crawler crane is adopted with an operating radius of 11m, and the reinforcement cage is lifted in three segments.}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¡ST11è³è½¦è¾æ®µç¬¬ä¸å¤©ï¼åæï¼ï¼\\P æ¡©åºæå­éªæ¶å®æ¯ï¼å¼å§é¢ç­ç¬¼åè£ä½ä¸ï¼ä½¿ç¨50tå±¥å¸¦å,ä½ä¸åå¾11mï¼é¢ç­ç¬¼åä¸æ¬¡åè£ã\\Pâ¡ ST11 to Depot, Day 1 (Evening): After inspection and acceptance of completed boreholes for cá»c foundations, reinforcement cage lifting works commence. A 50t crawler crane is adopted with an operating radius of 11m, and the reinforcement cage is lifted in three segments.}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:13.3393610Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;③}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â§}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;③}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:52.9916511Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;③ST11至车辆段第一天（夜间）：\\P    钢筋笼吊装完毕后，进行二次清孔，浇筑桩基混凝土。\\P③ Day 1 (Night):\nAfter completion of reinforcement cage lifting, secondary hole cleaning shall be carried out, followed by concreting of pile foundation.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;③ST11至车辆段第一天（夜间）：\\P 钢筋笼吊装完毕后，进行二次清孔，浇筑桩基混凝土。\\P③ Day 1 (Night): After completion of reinforcement cage lifting, secondary hole cleaning shall be carried out, followed by concreting of cọc foundation.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:10.1514833Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;④}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;④}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:52.9914625Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;④ST11站施工第一天（白天）：\\P    小里程开始承台钢筋绑扎、混凝土浇筑，ST11车站开始桩基施工。 两台旋挖钻同时施工，每2个墩为一个施工单元，形成循环施工。钻孔时产生钻渣48m³/孔，共计96m³。每台泥浆车容积12m³，需用8台泥浆车清运。\\P④ST11 Station, Day 1 (Daytime):\nPile cap reinforcement binding and concrete pouring start at the down-grade section, and pile foundation construction commences at ST11 Station. Two rotary drilling rigs operate simultaneously. Every 2 piers form one construction unit to realize cyclic construction. Drilling spoil generated during boring is 48m³ per borehole with a total of 96m³. Each slurry truck has a capacity of 12m³, and 8 slurry trucks are required for removal.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;④ST11站施工第一天（白天）：\\P 小里程开始承台钢筋绑扎、混凝土浇筑，ST11车站开始桩基施工。 两台旋挖钻同时施工，每2个墩为一个施工单元，形成循环施工。钻孔时产生钻渣48m³/孔，共计96m³。每台泥浆车容积12m³，需用8台泥浆车清运。\\P④ST11 Station, Day 1 (Daytime): Đài cọc reinforcement binding and bê tông pouring start at the down-cấp độ bền mặt cắt, and cọc foundation construction commences at ST11 Station. Two rotary drilling rigs operate simultaneously. Every 2 piers form one construction unit to realize cyclic construction. Drilling spoil generated during boring is 48m³ per borehole with a total of 96m³. Each slurry truck has a capacity of 12m³, and 8 slurry trucks are required for removal.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:05.5323477Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑤}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑤}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:52.9863857Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑤桩基成孔验收完毕，开始钢筋笼吊装作业，使用50t履带吊,作业半径11m，钢筋笼分三次吊装。\\P⑤ST11 to Depot, Day 1 (Evening):\nAfter inspection and acceptance of completed boreholes for pile foundations, reinforcement cage lifting works commence. A 50t crawler crane is adopted with an operating radius of 11m, and the reinforcement cage is lifted in three segments.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑤桩基成孔验收完毕，开始钢筋笼吊装作业，使用50t履带吊,作业半径11m，钢筋笼分三次吊装。\\P⑤ST11 to Depot, Day 1 (Evening): After inspection and acceptance of completed boreholes for cọc foundations, reinforcement cage lifting works commence. A 50t crawler crane is adopted with an operating radius of 11m, and the reinforcement cage is lifted in three segments.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:59.8257498Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑥}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑥}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:52.9861916Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑦}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑦}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:52.9804004Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑧}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;⑧}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â§}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:52.9802148Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;大里程桩基施工完成后，钢筋加工场地移至大里程。\\PUpon completion of pile foundation construction at the up-grade section, the steel reinforcement fabrication yard shall be relocated to the up-grade section.}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;å±¥å¸¦åä½ä¸åå¾11m\\POperating radius of\\P crawler crane: 8m\\P    }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;大里程桩基施工完成后，钢筋加工场地移至大里程。\\PUpon completion of cọc foundation construction at the up-cấp độ bền mặt cắt, the thép reinforcement fabrication yard shall be relocated to the up-cấp độ bền mặt cắt.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:03.4509420Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;履带吊作业半径11m\\POperating radius of\\P crawler crane: 8m\\P    }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;履带吊作业半径11m\\POperating radius of\\P crawler crane: 8m\\P }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;å±¥å¸¦åä½ä¸åå¾11m\\POperating radius of\\P crawler crane: 8m\\P }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:56.0148886Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;泥浆池：尺寸6m×9m，高度2.2m，容积118.8m³，考虑2孔/天，每孔产生泥浆47.7m³，每日产生泥浆95.4m³。\\PSlurry Pit: Dimension 6m × 9m, height 2.2m, volume 118.8m³. Considering 2 boreholes per day with slurry generation of 47.7m³ per borehole, the daily slurry output is 95.4m³.}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¦}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;泥浆池：尺寸6m×9m，高度2.2m，容积118.8m³，考虑2孔/天，每孔产生泥浆47.7m³，每日产生泥浆95.4m³。\\PSlurry Pit: Dimension 6m × 9m, chiều cao 2.2m, volume 118.8m³. Considering 2 boreholes per day with slurry generation of 47.7m³ per borehole, the daily slurry output is 95.4m³.}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¦}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:52.9804004Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¤}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¤}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:52.9863857Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;å¤§éç¨æ¡©åºæ½å·¥å®æåï¼é¢ç­å å·¥åºå°ç§»è³å¤§éç¨ã\\PUpon completion of pile foundation construction at the up-grade section, the steel reinforcement fabrication yard shall be relocated to the up-grade section.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;å¤§éç¨æ¡©åºæ½å·¥å®æåï¼é¢ç­å å·¥åºå°ç§»è³å¤§éç¨ã\\PUpon completion of cá»c foundation construction at the up-cáº¥p Äá» bá»n máº·t cáº¯t, the thÃ©p reinforcement fabrication yard shall be relocated to the up-cáº¥p Äá» bá»n máº·t cáº¯t.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:03.4509420Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¤æ¡©åºæå­éªæ¶å®æ¯ï¼å¼å§é¢ç­ç¬¼åè£ä½ä¸ï¼ä½¿ç¨50tå±¥å¸¦å,ä½ä¸åå¾11mï¼é¢ç­ç¬¼åä¸æ¬¡åè£ã\\Pâ¤ST11 to Depot, Day 1 (Evening):\nAfter inspection and acceptance of completed boreholes for pile foundations, reinforcement cage lifting works commence. A 50t crawler crane is adopted with an operating radius of 11m, and the reinforcement cage is lifted in three segments.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¤æ¡©åºæå­éªæ¶å®æ¯ï¼å¼å§é¢ç­ç¬¼åè£ä½ä¸ï¼ä½¿ç¨50tå±¥å¸¦å,ä½ä¸åå¾11mï¼é¢ç­ç¬¼åä¸æ¬¡åè£ã\\Pâ¤ST11 to Depot, Day 1 (Evening): After inspection and acceptance of completed boreholes for cá»c foundations, reinforcement cage lifting works commence. A 50t crawler crane is adopted with an operating radius of 11m, and the reinforcement cage is lifted in three segments.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:59.8257498Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¢}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¢}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:52.9916511Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¢ST11è³è½¦è¾æ®µç¬¬ä¸å¤©ï¼å¤é´ï¼ï¼\\P    é¢ç­ç¬¼åè£å®æ¯åï¼è¿è¡äºæ¬¡æ¸å­ï¼æµç­æ¡©åºæ··ååã\\Pâ¢ Day 1 (Night):\nAfter completion of reinforcement cage lifting, secondary hole cleaning shall be carried out, followed by concreting of pile foundation.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¢ST11è³è½¦è¾æ®µç¬¬ä¸å¤©ï¼å¤é´ï¼ï¼\\P é¢ç­ç¬¼åè£å®æ¯åï¼è¿è¡äºæ¬¡æ¸å­ï¼æµç­æ¡©åºæ··ååã\\Pâ¢ Day 1 (Night): After completion of reinforcement cage lifting, secondary hole cleaning shall be carried out, followed by concreting of cá»c foundation.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:10.1514833Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â£}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â£}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:52.9914625Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â£ST11ç«æ½å·¥ç¬¬ä¸å¤©ï¼ç½å¤©ï¼ï¼\\P    å°éç¨å¼å§æ¿å°é¢ç­ç»æãæ··ååæµç­ï¼ST11è½¦ç«å¼å§æ¡©åºæ½å·¥ã ä¸¤å°ææé»åæ¶æ½å·¥ï¼æ¯2ä¸ªå¢©ä¸ºä¸ä¸ªæ½å·¥ååï¼å½¢æå¾ªç¯æ½å·¥ãé»å­æ¶äº§çé»æ¸£48mÂ³/å­ï¼å±è®¡96mÂ³ãæ¯å°æ³¥æµè½¦å®¹ç§¯12mÂ³ï¼éç¨8å°æ³¥æµè½¦æ¸è¿ã\\Pâ£ST11 Station, Day 1 (Daytime):\nPile cap reinforcement binding and concrete pouring start at the down-grade section, and pile foundation construction commences at ST11 Station. Two rotary drilling rigs operate simultaneously. Every 2 piers form one construction unit to realize cyclic construction. Drilling spoil generated during boring is 48mÂ³ per borehole with a total of 96mÂ³. Each slurry truck has a capacity of 12mÂ³, and 8 slurry trucks are required for removal.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â£ST11ç«æ½å·¥ç¬¬ä¸å¤©ï¼ç½å¤©ï¼ï¼\\P å°éç¨å¼å§æ¿å°é¢ç­ç»æãæ··ååæµç­ï¼ST11è½¦ç«å¼å§æ¡©åºæ½å·¥ã ä¸¤å°ææé»åæ¶æ½å·¥ï¼æ¯2ä¸ªå¢©ä¸ºä¸ä¸ªæ½å·¥ååï¼å½¢æå¾ªç¯æ½å·¥ãé»å­æ¶äº§çé»æ¸£48mÂ³/å­ï¼å±è®¡96mÂ³ãæ¯å°æ³¥æµè½¦å®¹ç§¯12mÂ³ï¼éç¨8å°æ³¥æµè½¦æ¸è¿ã\\Pâ£ST11 Station, Day 1 (Daytime): ÄÃ i cá»c reinforcement binding and bÃª tÃ´ng pouring start at the down-cáº¥p Äá» bá»n máº·t cáº¯t, and cá»c foundation construction commences at ST11 Station. Two rotary drilling rigs operate simultaneously. Every 2 piers form one construction unit to realize cyclic construction. Drilling spoil generated during boring is 48mÂ³ per borehole with a total of 96mÂ³. Each slurry truck has a capacity of 12mÂ³, and 8 slurry trucks are required for removal.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:05.5323477Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¥}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;â¥}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:52.9861916Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;æ³¥æµæ± ï¼å°ºå¯¸6mÃ9mï¼é«åº¦2.2mï¼å®¹ç§¯118.8mÂ³ï¼èè2å­/å¤©ï¼æ¯å­äº§çæ³¥æµ47.7mÂ³ï¼æ¯æ¥äº§çæ³¥æµ95.4mÂ³ã\\PSlurry Pit: Dimension 6m Ã 9m, height 2.2m, volume 118.8mÂ³. Considering 2 boreholes per day with slurry generation of 47.7mÂ³ per borehole, the daily slurry output is 95.4mÂ³.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;æ³¥æµæ± ï¼å°ºå¯¸6mÃ9mï¼é«åº¦2.2mï¼å®¹ç§¯118.8mÂ³ï¼èè2å­/å¤©ï¼æ¯å­äº§çæ³¥æµ47.7mÂ³ï¼æ¯æ¥äº§çæ³¥æµ95.4mÂ³ã\\PSlurry Pit: Dimension 6m Ã 9m, chiá»u cao 2.2m, volume 118.8mÂ³. Considering 2 boreholes per day with slurry generation of 47.7mÂ³ per borehole, the daily slurry output is 95.4mÂ³.}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:53.0034313Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;第一天   }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;ç¬¬ä¸å¤©   }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;第一天 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;ç¬¬ä¸å¤© }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:57.3514882Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;考虑1台履带吊，若ST11与高架桥桩基同步施工，需要再进场一台履带吊配合施工。}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;é¢ç­å­æ¾åºï¼å°ºå¯¸12mÃ5.5mï¼æç§å é«1mæ§å¶ï¼é¢ç­è½å¤å­æ¾180tï¼æ¯ä¸ªæ¡©åºé¢ç­ç¬¼æ»éçº¦5tï¼è½å¤å­æ¾36ä¸ªæ¡©åºé¢ç­ç¬¼çé¢ç­ã\\PReinforcement Storage Area: Dimension 12m Ã 5.5m, stacking height limited to 1m. The storage capacity of steel reinforcement is 180t. The total weight of reinforcement cage for each pile is approximately 5t, which can store steel materials for 36 pile reinforcement cages.}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;考虑1台履带吊，若ST11与高架桥桩基同步施工，需要再进场一台履带吊配合施工。}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:52.9726553Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;钢筋存放区：尺寸12m×5.5m，按照堆高1m控制，钢筋能够存放180t，每个桩基钢筋笼总重约5t，能够存放36个桩基钢筋笼的钢筋。\\PReinforcement Storage Area: Dimension 12m × 5.5m, stacking height limited to 1m. The storage capacity of steel reinforcement is 180t. The total weight of reinforcement cage for each pile is approximately 5t, which can store steel materials for 36 pile reinforcement cages.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;钢筋存放区：尺寸12m×5.5m，按照堆高1m控制，钢筋能够存放180t，每个桩基钢筋笼总重约5t，能够存放36个桩基钢筋笼的钢筋。\\PReinforcement Storage Area: Dimension 12m × 5.5m, stacking chiều cao limited to 1m. The storage capacity of thép reinforcement is 180t. The total weight of reinforcement cage for each cọc is approximately 5t, which can store thép materials for 36 cọc reinforcement cages.}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;é¢ç­å­æ¾åºï¼å°ºå¯¸12mÃ5.5mï¼æç§å é«1mæ§å¶ï¼é¢ç­è½å¤å­æ¾180tï¼æ¯ä¸ªæ¡©åºé¢ç­ç¬¼æ»éçº¦5tï¼è½å¤å­æ¾36ä¸ªæ¡©åºé¢ç­ç¬¼çé¢ç­ã\\PReinforcement Storage Area: Dimension 12m Ã 5.5m, stacking chiá»u cao limited to 1m. The storage capacity of thÃ©p reinforcement is 180t. The total weight of reinforcement cage for each cá»c is approximately 5t, which can store thÃ©p materials for 36 cá»c reinforcement cages.}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:01.0142749Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;钢筋笼存放区：尺寸17m×7.5m，钢筋笼6排双层存放。能够存放长度17m的钢筋笼12根，每孔桩基分3节下放钢筋笼，存放区能够存放4根桩基的钢筋笼。\\PReinforcement Cage Storage Area：The size of the reinforcement cage storage area is 17m × 7.5m with a storage layout of 6 rows and double layers. It can store 12 reinforcement cages with a length of 17m. The reinforcement cage of each single pile is lowered in 3 sections, and the storage area can accommodate reinforcement cages for 4 piles.}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;é¢ç­ç¬¼å­æ¾åºï¼å°ºå¯¸17mÃ7.5mï¼é¢ç­ç¬¼6æåå±å­æ¾ãè½å¤å­æ¾é¿åº¦17mçé¢ç­ç¬¼12æ ¹ï¼æ¯å­æ¡©åºå3èä¸æ¾é¢ç­ç¬¼ï¼å­æ¾åºè½å¤å­æ¾4æ ¹æ¡©åºçé¢ç­ç¬¼ã\\PReinforcement Cage Storage Areaï¼The size of the reinforcement cage storage area is 17m Ã 7.5m with a storage layout of 6 rows and double layers. It can store 12 reinforcement cages with a length of 17m. The reinforcement cage of each single pile is lowered in 3 sections, and the storage area can accommodate reinforcement cages for 4 piles.}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;钢筋笼存放区：尺寸17m×7.5m，钢筋笼6排双层存放。能够存放长度17m的钢筋笼12根，每孔桩基分3节下放钢筋笼，存放区能够存放4根桩基的钢筋笼。\\PReinforcement Cage Storage Area：The size of the reinforcement cage storage area is 17m × 7.5m with a storage layout of 6 rows and double layers. It can store 12 reinforcement cages with a chiều dài of 17m. The reinforcement cage of each single cọc is lowered in 3 sections, and the storage area can accommodate reinforcement cages for 4 piles.}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;é¢ç­ç¬¼å­æ¾åºï¼å°ºå¯¸17mÃ7.5mï¼é¢ç­ç¬¼6æåå±å­æ¾ãè½å¤å­æ¾é¿åº¦17mçé¢ç­ç¬¼12æ ¹ï¼æ¯å­æ¡©åºå3èä¸æ¾é¢ç­ç¬¼ï¼å­æ¾åºè½å¤å­æ¾4æ ¹æ¡©åºçé¢ç­ç¬¼ã\\PReinforcement Cage Storage Areaï¼The size of the reinforcement cage storage area is 17m Ã 7.5m with a storage layout of 6 rows and double layers. It can store 12 reinforcement cages with a chiá»u dÃ i of 17m. The reinforcement cage of each single cá»c is lowered in 3 sections, and the storage area can accommodate reinforcement cages for 4 piles.}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:01.0146467Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;1#墩 }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;\\C0;èè1å°å±¥å¸¦åï¼è¥ST11ä¸é«æ¶æ¡¥æ¡©åºåæ­¥æ½å·¥ï¼éè¦åè¿åºä¸å°å±¥å¸¦åéåæ½å·¥ã}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;1#墩 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;\\C0;èè1å°å±¥å¸¦åï¼è¥ST11ä¸é«æ¶æ¡¥æ¡©åºåæ­¥æ½å·¥ï¼éè¦åè¿åºä¸å°å±¥å¸¦åéåæ½å·¥ã}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:52.9726553Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;1#å¢© }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;1#å¢© }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:10.1372424Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;2#墩 }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;2#å¢© }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;2#墩 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;2#å¢© }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:10.1370512Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;3#墩 }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;3#å¢© }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;3#墩 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;3#å¢© }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:10.1368192Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;4#墩 }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;4#å¢© }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;4#墩 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;4#å¢© }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:10.1364074Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;NP13-NP16:桩基16根,施工持续时间8天，第26天施工完成，4个承台，第145天施工完成，4个墩身，第205天施工完成。\\PNP13-NP16: A total of 16 pile foundations with a construction duration of 8 days, completed on the 26th day. There are 4 pile caps completed on the 145th day, and 4 pier shafts completed on the 205th day.}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;åä¾§æ¶çª0.5ç±³ï¼åä¾§æ¶çª1ç±³}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;NP13-NP16:桩基16根,施工持续时间8天，第26天施工完成，4个承台，第145天施工完成，4个墩身，第205天施工完成。\\PNP13-NP16: A total of 16 cọc foundations with a construction duration of 8 days, completed on the 26th day. There are 4 cọc caps completed on the 145th day, and 4 pier shafts completed on the 205th day.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:56.0025075Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;NP17-NP19:桩基17根,施工持续时间9天，第18天施工完成，3个承台，第105天施工完成，3个墩身，第145天施工完成。\\PNP17-NP19: A total of 17 pile foundations with a construction duration of 9 days, completed on the 18th day. There are 3 pile caps completed on the 105th day, and 3 pier shafts completed on the 145th day.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;NP17-NP19:桩基17根,施工持续时间9天，第18天施工完成，3个承台，第105天施工完成，3个墩身，第145天施工完成。\\PNP17-NP19: A total of 17 cọc foundations with a construction duration of 9 days, completed on the 18th day. There are 3 cọc caps completed on the 105th day, and 3 pier shafts completed on the 145th day.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:56.0027396Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;NP20-NP22:桩基17根,施工持续时间9天，第9天施工完成，3个承台，第75天施工完成，3个墩身，第100天施工完成。\\PNP20-NP22: A total of 17 pile foundations are constructed within 9 days and completed on the 9th day. There are 3 pile caps completed on the 75th day, and 3 pier shafts completed on the 100th day.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;NP20-NP22:桩基17根,施工持续时间9天，第9天施工完成，3个承台，第75天施工完成，3个墩身，第100天施工完成。\\PNP20-NP22: A total of 17 cọc foundations are constructed within 9 days and completed on the 9th day. There are 3 cọc caps completed on the 75th day, and 3 pier shafts completed on the 100th day.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:56.0030742Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;NP8-NP11:桩基26根,施工持续时间12天，第94天施工完成，2个承台，第165天施工完成，2个墩身，第235天施工完成。\\PNP8-NP11: A total of 26 pile foundations with a construction duration of 12 days, completed on the 94th day. There are 2 pile caps completed on the 165th day, and 2 pier shafts completed on the 235th day.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;NP8-NP11:桩基26根,施工持续时间12天，第94天施工完成，2个承台，第165天施工完成，2个墩身，第235天施工完成。\\PNP8-NP11: A total of 26 cọc foundations with a construction duration of 12 days, completed on the 94th day. There are 2 cọc caps completed on the 165th day, and 2 pier shafts completed on the 235th day.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:55.9945713Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;TP1-TP2:桩基24根,施工持续时间12天，第80天施工完成，2个承台，第125天施工完成，2个墩身，第175天施工完成。\\PTP1-TP2: A total of 24 pile foundations with a construction duration of 12 days, completed on the 80th day. There are 2 pile caps completed on the 125th day, and 2 pier shafts completed on the 175th day.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;TP1-TP2:桩基24根,施工持续时间12天，第80天施工完成，2个承台，第125天施工完成，2个墩身，第175天施工完成。\\PTP1-TP2: A total of 24 cọc foundations with a construction duration of 12 days, completed on the 80th day. There are 2 cọc caps completed on the 125th day, and 2 pier shafts completed on the 175th day.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:55.9949128Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;TP3-TP4:桩基24根,施工持续时间12天，第67天施工完成，2个承台，第105天施工完成，2个墩身，第145天施工完成。\\PTP3-TP4: A total of 24 pile foundations with a construction duration of 12 days, completed on the 67th day. There are 2 pile caps completed on the 105th day, and 2 pier shafts completed on the 145th day.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;TP3-TP4:桩基24根,施工持续时间12天，第67天施工完成，2个承台，第105天施工完成，2个墩身，第145天施工完成。\\PTP3-TP4: A total of 24 cọc foundations with a construction duration of 12 days, completed on the 67th day. There are 2 cọc caps completed on the 105th day, and 2 pier shafts completed on the 145th day.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:55.9950919Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;TP5-TP6:桩基24根,施工持续时间12天，第54天施工完成，2个承台，第85天施工完成，2个墩身，第115天施工完成。\\PTP5-TP6: A total of 24 pile foundations with a construction duration of 12 days, completed on the 54th day. There are 2 pile caps completed on the 85th day, and 2 pier shafts completed on the 115th day.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;TP5-TP6:桩基24根,施工持续时间12天，第54天施工完成，2个承台，第85天施工完成，2个墩身，第115天施工完成。\\PTP5-TP6: A total of 24 cọc foundations with a construction duration of 12 days, completed on the 54th day. There are 2 cọc caps completed on the 85th day, and 2 pier shafts completed on the 115th day.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:55.9952542Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;TP7-NP12:桩基28根,施工持续时间14天，第41天施工完成，3个承台，第65天施工完成，3个墩身，第85天施工完成。\\PTP7-NP12: A total of 28 pile foundations with a construction duration of 14 days, completed on the 41st day. There are 3 pile caps completed on the 65th day, and 3 pier shafts completed on the 85th day.}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;TP7-NP12:桩基28根,施工持续时间14天，第41天施工完成，3个承台，第65天施工完成，3个墩身，第85天施工完成。\\PTP7-NP12: A total of 28 cọc foundations with a construction duration of 14 days, completed on the 41st day. There are 3 cọc caps completed on the 65th day, and 3 pier shafts completed on the 85th day.}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:55.9953829Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;偏移后总图}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;偏移后总图}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:19.7110045Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;北侧收窄0.5米，南侧收窄1米}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;北侧收窄0.5米，南侧收窄1米}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;åä¾§æ¶çª0.5ç±³ï¼åä¾§æ¶çª1ç±³}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:22.2496874Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;承台施工基坑开挖，预留1.5米工业面施打钢板桩，\\P施工机械距离钢板桩支护边缘1.5m。}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;åç§»åæ»å¾}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;承台施工基坑开挖，预留1.5米工业面施打钢板桩，\\P施工机械距离钢板桩支护边缘1.5m。}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;åç§»åæ»å¾}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:19.7110045Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;æ¿å°æ½å·¥åºåå¼æï¼é¢ç1.5ç±³å·¥ä¸é¢æ½æé¢æ¿æ¡©ï¼\\Pæ½å·¥æºæ¢°è·ç¦»é¢æ¿æ¡©æ¯æ¤è¾¹ç¼1.5mã}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;æ¿å°æ½å·¥åºåå¼æï¼é¢ç1.5ç±³å·¥ä¸é¢æ½æé¢æ¿æ¡©ï¼\\Pæ½å·¥æºæ¢°è·ç¦»é¢æ¿æ¡©æ¯æ¤è¾¹ç¼1.5mã}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:24.4774318Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;承台施工基坑开挖，预留2米工业面施打钢板桩，\\P施工机械距离钢板桩支护边缘1.5m。}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;æ¿å°æ½å·¥åºåå¼æï¼é¢ç2ç±³å·¥ä¸é¢æ½æé¢æ¿æ¡©ï¼\\Pæ½å·¥æºæ¢°è·ç¦»é¢æ¿æ¡©æ¯æ¤è¾¹ç¼1.5mã}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;承台施工基坑开挖，预留2米工业面施打钢板桩，\\P施工机械距离钢板桩支护边缘1.5m。}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;æ¿å°æ½å·¥åºåå¼æï¼é¢ç2ç±³å·¥ä¸é¢æ½æé¢æ¿æ¡©ï¼\\Pæ½å·¥æºæ¢°è·ç¦»é¢æ¿æ¡©æ¯æ¤è¾¹ç¼1.5mã}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:26.6876012Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;排出}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;æ¥å¥}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;排出}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:54.5501612Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;接入}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;接入}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;æ¥å¥}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:54.5503278Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;施工围蔽}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;æ½å·¥å´è½}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;施工围蔽}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;æ½å·¥å´è½}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:26.6884370Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;沉淀池}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;æ²æ·æ± }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;沉淀池}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;æ²æ·æ± }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:28.0493957Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;泥浆池}",
+    "source": "{\\fSimSun|b0|i0|c134|p2;æ³¥æµæ± }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;泥浆池}",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;æ³¥æµæ± }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:28.0496630Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第一天 Day 1  }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;æåº}",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第一天 Day 1 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;æåº}",
     "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:03.4502528Z"
+    "updatedAt": "2026-10-07T02:55:54.5501612Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第一天\\PDay 1   }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å«å¤©   }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第一天\\PDay 1 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:10.1512506Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第一步:旋挖钻钻孔出渣}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第一步:旋挖钻钻孔出渣}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:22.2363439Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第一步:旋挖钻钻孔出渣\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan tạo lỗ và lấy đất đào bằng máy khoan cọc nhồi\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第一步:旋挖钻钻孔出渣\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan tạo lỗ và lấy đất đào bằng máy khoan cọc nhồi\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:28.0428697Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第七天   }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第七天 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:57.3426564Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第七天 Day 7  }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第七天 Day 7 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:02.3009717Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第七天\\PDay 7   }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第七天\\PDay 7 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:07.7615883Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第三天   }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第三天 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:57.3433365Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第三天 \\PDay 3  }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第三天 \\PDay 3 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:10.1451578Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第三天 Day 3  }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第三天 Day 3 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:02.3018934Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第三步:\\P旋挖钻钻孔出渣\\P履带吊吊装钢筋笼\\P桩基浇筑混凝土\\P承台钢筋绑扎}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第三步:\\P旋挖钻钻孔出渣\\P履带吊吊装钢筋笼\\P桩基浇筑混凝土\\P承台钢筋绑扎}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:22.2338722Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第三步:\\P旋挖钻钻孔出渣\\P履带吊吊装钢筋笼\\P桩基浇筑混凝土\\P承台钢筋绑扎\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan tạo lỗ và lấy đất đào bằng máy khoan cọc nhồi\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???\\fSimSun|b0|i0|c134|p2;\\H0.9998x;\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Lắp đặt lồng thép - reinforcement cage installation\\H0.8571x;+\\fArial|b0|i0|c0|p34;\u001a\\fSimSun|b0|i0|c134|p2;棳\\fTimes New Roman|b0|i0|c0|p18;€?\\P\\Ftxt,tssdchn|c134;\\H0.8748x;（\\fTimes New Roman|b0|i0|c0|p18;1\\Ftxt,tssdchn|c134;）\\fTimes New Roman|b0|i0|c0|p18;\\H1.333x;Đổ bê tông cọc- Pile concrete pouring\\P\\H1.001x;lắp đặt cốt thép bệ cọc- Pile cap reinceforcement installation \\H0.8571x; \\fArial|b0|i0|c0|p34;\u0017\u001a\\fSimSun|b0|i0|c134|p2;棎\\Ftxt,tssdchn|c134;贾\\fTimes New Roman|b0|i0|c0|p18;#}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第三步:\\P旋挖钻钻孔出渣\\P履带吊吊装钢筋笼\\P桩基浇筑混凝土\\P承台钢筋绑扎\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan tạo lỗ và lấy đất đào bằng máy khoan cọc nhồi\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???\\fSimSun|b0|i0|c134|p2;\\H0.9998x;\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Lắp đặt lồng thép - reinforcement cage installation\\H0.8571x;+\\fArial|b0|i0|c0|p34;\u001a\\fSimSun|b0|i0|c134|p2;棳\\fTimes New Roman|b0|i0|c0|p18;€?\\P\\Ftxt,tssdchn|c134;\\H0.8748x;（\\fTimes New Roman|b0|i0|c0|p18;1\\Ftxt,tssdchn|c134;）\\fTimes New Roman|b0|i0|c0|p18;\\H1.333x;Đổ bê tông cọc- Cọc bê tông pouring\\P\\H1.001x;lắp đặt cốt thép bệ cọc- Đài cọc reinceforcement installation \\H0.8571x; \\fArial|b0|i0|c0|p34;\u0017\u001a\\fSimSun|b0|i0|c134|p2;棎\\Ftxt,tssdchn|c134;贾\\fTimes New Roman|b0|i0|c0|p18;#}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:28.0348470Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第二天   }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第二天 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:57.3511791Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第二天 Day 2  }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第二天 Day 2 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:02.3021713Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第二天\\PDay 2   }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第二天\\PDay 2 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:10.1453790Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第二步:\\P旋挖钻钻孔出渣\\P履带吊吊装钢筋笼}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第二步:\\P旋挖钻钻孔出渣\\P履带吊吊装钢筋笼}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:22.2361101Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第二步:\\P旋挖钻钻孔出渣\\P履带吊吊装钢筋笼\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan tạo lỗ và lấy đất đào bằng máy khoan cọc nhồi\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???\\fSimSun|b0|i0|c134|p2;\\H0.9998x;\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Lắp đặt lồng thép - reinforcement cage installation\\H0.8571x;+\\fArial|b0|i0|c0|p34;\u001a\\fSimSun|b0|i0|c134|p2;棳\\fTimes New Roman|b0|i0|c0|p18;€?}",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第二步:\\P旋挖钻钻孔出渣\\P履带吊吊装钢筋笼\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan tạo lỗ và lấy đất đào bằng máy khoan cọc nhồi\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???\\fSimSun|b0|i0|c134|p2;\\H0.9998x;\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Lắp đặt lồng thép - reinforcement cage installation\\H0.8571x;+\\fArial|b0|i0|c0|p34;\u001a\\fSimSun|b0|i0|c134|p2;棳\\fTimes New Roman|b0|i0|c0|p18;€?}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:28.0353590Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第五天   }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第五天 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:57.3429783Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第五天  \\PDay 5 }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第五天 \\PDay 5 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:07.7621922Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第五天 Day 5  }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第五天 Day 5 }",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:02.3014009Z"
-  },
-  {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第八天   }",
-    "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第八天 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å«å¤© }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:57.3423392Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第八天  \\PDay 8 }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å«å¤©  \\PDay 8 }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第八天 \\PDay 8 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å«å¤© \\PDay 8 }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:06.6098593Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第八天 Day 8  }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å«å¤© Day 8  }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第八天 Day 8 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å«å¤© Day 8 }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:02.3006301Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第六天   }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å­å¤©   }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第六天 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å­å¤© }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:57.3428321Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第六天 \\PDay 6  }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å­å¤© \\PDay 6  }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第六天 \\PDay 6 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å­å¤© \\PDay 6 }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:07.7619687Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第六天 Day 6  }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å­å¤© Day 6  }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第六天 Day 6 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬å­å¤© Day 6 }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:02.3012057Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第四天   }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤©   }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第四天 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:57.3426564Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤©   }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:57.3433365Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© \\PDay 3  }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© \\PDay 3 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:10.1451578Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© Day 1  }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© Day 1 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:03.4502528Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© Day 3  }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© Day 3 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:02.3018934Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© Day 7  }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤© Day 7 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:02.3009717Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤©\\PDay 1   }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤©\\PDay 1 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:10.1512506Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤©\\PDay 7   }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸å¤©\\PDay 7 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:07.7615883Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸æ­¥:\\Pææé»é»å­åºæ¸£\\På±¥å¸¦ååè£é¢ç­ç¬¼\\Pæ¡©åºæµç­æ··åå\\Pæ¿å°é¢ç­ç»æ}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸æ­¥:\\Pææé»é»å­åºæ¸£\\På±¥å¸¦ååè£é¢ç­ç¬¼\\Pæ¡©åºæµç­æ··åå\\Pæ¿å°é¢ç­ç»æ}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:22.2338722Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸æ­¥:\\Pææé»é»å­åºæ¸£\\På±¥å¸¦ååè£é¢ç­ç¬¼\\Pæ¡©åºæµç­æ··åå\\Pæ¿å°é¢ç­ç»æ\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan táº¡o lá» vÃ  láº¥y Äáº¥t ÄÃ o báº±ng mÃ¡y khoan cá»c nhá»i\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???\\fSimSun|b0|i0|c134|p2;\\H0.9998x;\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Láº¯p Äáº·t lá»ng thÃ©p - reinforcement cage installation\\H0.8571x;+\\fArial|b0|i0|c0|p34;\u001a\\fSimSun|b0|i0|c134|p2;æ£³\\fTimes New Roman|b0|i0|c0|p18;â¬?\\P\\Ftxt,tssdchn|c134;\\H0.8748x;ï¼\\fTimes New Roman|b0|i0|c0|p18;1\\Ftxt,tssdchn|c134;ï¼\\fTimes New Roman|b0|i0|c0|p18;\\H1.333x;Äá» bÃª tÃ´ng cá»c- Pile concrete pouring\\P\\H1.001x;láº¯p Äáº·t cá»t thÃ©p bá» cá»c- Pile cap reinceforcement installation \\H0.8571x; \\fArial|b0|i0|c0|p34;\u0017\u001a\\fSimSun|b0|i0|c134|p2;æ£\\Ftxt,tssdchn|c134;è´¾\\fTimes New Roman|b0|i0|c0|p18;#}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸æ­¥:\\Pææé»é»å­åºæ¸£\\På±¥å¸¦ååè£é¢ç­ç¬¼\\Pæ¡©åºæµç­æ··åå\\Pæ¿å°é¢ç­ç»æ\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan táº¡o lá» vÃ  láº¥y Äáº¥t ÄÃ o báº±ng mÃ¡y khoan cá»c nhá»i\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???\\fSimSun|b0|i0|c134|p2;\\H0.9998x;\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Láº¯p Äáº·t lá»ng thÃ©p - reinforcement cage installation\\H0.8571x;+\\fArial|b0|i0|c0|p34;\u001a\\fSimSun|b0|i0|c134|p2;æ£³\\fTimes New Roman|b0|i0|c0|p18;â¬?\\P\\Ftxt,tssdchn|c134;\\H0.8748x;ï¼\\fTimes New Roman|b0|i0|c0|p18;1\\Ftxt,tssdchn|c134;ï¼\\fTimes New Roman|b0|i0|c0|p18;\\H1.333x;Äá» bÃª tÃ´ng cá»c- Cá»c bÃª tÃ´ng pouring\\P\\H1.001x;láº¯p Äáº·t cá»t thÃ©p bá» cá»c- ÄÃ i cá»c reinceforcement installation \\H0.8571x; \\fArial|b0|i0|c0|p34;\u0017\u001a\\fSimSun|b0|i0|c134|p2;æ£\\Ftxt,tssdchn|c134;è´¾\\fTimes New Roman|b0|i0|c0|p18;#}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:28.0348470Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸æ­¥:ææé»é»å­åºæ¸£}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸æ­¥:ææé»é»å­åºæ¸£}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:22.2363439Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸æ­¥:ææé»é»å­åºæ¸£\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan táº¡o lá» vÃ  láº¥y Äáº¥t ÄÃ o báº±ng mÃ¡y khoan cá»c nhá»i\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬ä¸æ­¥:ææé»é»å­åºæ¸£\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan táº¡o lá» vÃ  láº¥y Äáº¥t ÄÃ o báº±ng mÃ¡y khoan cá»c nhá»i\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:28.0428697Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬åå¤©   }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬åå¤© }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:57.3431607Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第四天 \\PDay 4  }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬åå¤© \\PDay 4  }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第四天 \\PDay 4 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬åå¤© \\PDay 4 }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:10.1448392Z"
   },
   {
-    "source": "{\\fSimSun|b0|i0|c134|p2;第四天 Day 4  }",
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬åå¤© Day 4  }",
     "targetLang": "vi",
-    "translation": "{\\fSimSun|b0|i0|c134|p2;第四天 Day 4 }",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬åå¤© Day 4 }",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:02.3016779Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤©   }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤© }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:57.3511791Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤©   }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤© }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:57.3429783Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤©  \\PDay 5 }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤© \\PDay 5 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:07.7621922Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤© Day 2  }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤© Day 2 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:02.3021713Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤© Day 5  }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤© Day 5 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:02.3014009Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤©\\PDay 2   }",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºå¤©\\PDay 2 }",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:10.1453790Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºæ­¥:\\Pææé»é»å­åºæ¸£\\På±¥å¸¦ååè£é¢ç­ç¬¼}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºæ­¥:\\Pææé»é»å­åºæ¸£\\På±¥å¸¦ååè£é¢ç­ç¬¼}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:22.2361101Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºæ­¥:\\Pææé»é»å­åºæ¸£\\På±¥å¸¦ååè£é¢ç­ç¬¼\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan táº¡o lá» vÃ  láº¥y Äáº¥t ÄÃ o báº±ng mÃ¡y khoan cá»c nhá»i\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???\\fSimSun|b0|i0|c134|p2;\\H0.9998x;\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Láº¯p Äáº·t lá»ng thÃ©p - reinforcement cage installation\\H0.8571x;+\\fArial|b0|i0|c0|p34;\u001a\\fSimSun|b0|i0|c134|p2;æ£³\\fTimes New Roman|b0|i0|c0|p18;â¬?}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;ç¬¬äºæ­¥:\\Pææé»é»å­åºæ¸£\\På±¥å¸¦ååè£é¢ç­ç¬¼\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Khoan táº¡o lá» vÃ  láº¥y Äáº¥t ÄÃ o báº±ng mÃ¡y khoan cá»c nhá»i\\PBorehole drilling and spoil removal using a rotary drilling rig\\P\\H0.8571x;???\\fSimSun|b0|i0|c134|p2;\\H0.9998x;\\P\\fTimes New Roman|b0|i0|c0|p18;\\H1.167x;Láº¯p Äáº·t lá»ng thÃ©p - reinforcement cage installation\\H0.8571x;+\\fArial|b0|i0|c0|p34;\u001a\\fSimSun|b0|i0|c134|p2;æ£³\\fTimes New Roman|b0|i0|c0|p18;â¬?}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:28.0353590Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;NP13-NP16:æ¡©åº16æ ¹,æ½å·¥æç»­æ¶é´8å¤©ï¼ç¬¬26å¤©æ½å·¥å®æï¼4ä¸ªæ¿å°ï¼ç¬¬145å¤©æ½å·¥å®æï¼4ä¸ªå¢©èº«ï¼ç¬¬205å¤©æ½å·¥å®æã\\PNP13-NP16: A total of 16 pile foundations with a construction duration of 8 days, completed on the 26th day. There are 4 pile caps completed on the 145th day, and 4 pier shafts completed on the 205th day.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;NP13-NP16:æ¡©åº16æ ¹,æ½å·¥æç»­æ¶é´8å¤©ï¼ç¬¬26å¤©æ½å·¥å®æï¼4ä¸ªæ¿å°ï¼ç¬¬145å¤©æ½å·¥å®æï¼4ä¸ªå¢©èº«ï¼ç¬¬205å¤©æ½å·¥å®æã\\PNP13-NP16: A total of 16 cá»c foundations with a construction duration of 8 days, completed on the 26th day. There are 4 cá»c caps completed on the 145th day, and 4 pier shafts completed on the 205th day.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:56.0025075Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;NP17-NP19:æ¡©åº17æ ¹,æ½å·¥æç»­æ¶é´9å¤©ï¼ç¬¬18å¤©æ½å·¥å®æï¼3ä¸ªæ¿å°ï¼ç¬¬105å¤©æ½å·¥å®æï¼3ä¸ªå¢©èº«ï¼ç¬¬145å¤©æ½å·¥å®æã\\PNP17-NP19: A total of 17 pile foundations with a construction duration of 9 days, completed on the 18th day. There are 3 pile caps completed on the 105th day, and 3 pier shafts completed on the 145th day.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;NP17-NP19:æ¡©åº17æ ¹,æ½å·¥æç»­æ¶é´9å¤©ï¼ç¬¬18å¤©æ½å·¥å®æï¼3ä¸ªæ¿å°ï¼ç¬¬105å¤©æ½å·¥å®æï¼3ä¸ªå¢©èº«ï¼ç¬¬145å¤©æ½å·¥å®æã\\PNP17-NP19: A total of 17 cá»c foundations with a construction duration of 9 days, completed on the 18th day. There are 3 cá»c caps completed on the 105th day, and 3 pier shafts completed on the 145th day.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:56.0027396Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;NP20-NP22:æ¡©åº17æ ¹,æ½å·¥æç»­æ¶é´9å¤©ï¼ç¬¬9å¤©æ½å·¥å®æï¼3ä¸ªæ¿å°ï¼ç¬¬75å¤©æ½å·¥å®æï¼3ä¸ªå¢©èº«ï¼ç¬¬100å¤©æ½å·¥å®æã\\PNP20-NP22: A total of 17 pile foundations are constructed within 9 days and completed on the 9th day. There are 3 pile caps completed on the 75th day, and 3 pier shafts completed on the 100th day.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;NP20-NP22:æ¡©åº17æ ¹,æ½å·¥æç»­æ¶é´9å¤©ï¼ç¬¬9å¤©æ½å·¥å®æï¼3ä¸ªæ¿å°ï¼ç¬¬75å¤©æ½å·¥å®æï¼3ä¸ªå¢©èº«ï¼ç¬¬100å¤©æ½å·¥å®æã\\PNP20-NP22: A total of 17 cá»c foundations are constructed within 9 days and completed on the 9th day. There are 3 cá»c caps completed on the 75th day, and 3 pier shafts completed on the 100th day.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:56.0030742Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;NP8-NP11:æ¡©åº26æ ¹,æ½å·¥æç»­æ¶é´12å¤©ï¼ç¬¬94å¤©æ½å·¥å®æï¼2ä¸ªæ¿å°ï¼ç¬¬165å¤©æ½å·¥å®æï¼2ä¸ªå¢©èº«ï¼ç¬¬235å¤©æ½å·¥å®æã\\PNP8-NP11: A total of 26 pile foundations with a construction duration of 12 days, completed on the 94th day. There are 2 pile caps completed on the 165th day, and 2 pier shafts completed on the 235th day.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;NP8-NP11:æ¡©åº26æ ¹,æ½å·¥æç»­æ¶é´12å¤©ï¼ç¬¬94å¤©æ½å·¥å®æï¼2ä¸ªæ¿å°ï¼ç¬¬165å¤©æ½å·¥å®æï¼2ä¸ªå¢©èº«ï¼ç¬¬235å¤©æ½å·¥å®æã\\PNP8-NP11: A total of 26 cá»c foundations with a construction duration of 12 days, completed on the 94th day. There are 2 cá»c caps completed on the 165th day, and 2 pier shafts completed on the 235th day.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:55.9945713Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;TP1-TP2:æ¡©åº24æ ¹,æ½å·¥æç»­æ¶é´12å¤©ï¼ç¬¬80å¤©æ½å·¥å®æï¼2ä¸ªæ¿å°ï¼ç¬¬125å¤©æ½å·¥å®æï¼2ä¸ªå¢©èº«ï¼ç¬¬175å¤©æ½å·¥å®æã\\PTP1-TP2: A total of 24 pile foundations with a construction duration of 12 days, completed on the 80th day. There are 2 pile caps completed on the 125th day, and 2 pier shafts completed on the 175th day.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;TP1-TP2:æ¡©åº24æ ¹,æ½å·¥æç»­æ¶é´12å¤©ï¼ç¬¬80å¤©æ½å·¥å®æï¼2ä¸ªæ¿å°ï¼ç¬¬125å¤©æ½å·¥å®æï¼2ä¸ªå¢©èº«ï¼ç¬¬175å¤©æ½å·¥å®æã\\PTP1-TP2: A total of 24 cá»c foundations with a construction duration of 12 days, completed on the 80th day. There are 2 cá»c caps completed on the 125th day, and 2 pier shafts completed on the 175th day.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:55.9949128Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;TP3-TP4:æ¡©åº24æ ¹,æ½å·¥æç»­æ¶é´12å¤©ï¼ç¬¬67å¤©æ½å·¥å®æï¼2ä¸ªæ¿å°ï¼ç¬¬105å¤©æ½å·¥å®æï¼2ä¸ªå¢©èº«ï¼ç¬¬145å¤©æ½å·¥å®æã\\PTP3-TP4: A total of 24 pile foundations with a construction duration of 12 days, completed on the 67th day. There are 2 pile caps completed on the 105th day, and 2 pier shafts completed on the 145th day.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;TP3-TP4:æ¡©åº24æ ¹,æ½å·¥æç»­æ¶é´12å¤©ï¼ç¬¬67å¤©æ½å·¥å®æï¼2ä¸ªæ¿å°ï¼ç¬¬105å¤©æ½å·¥å®æï¼2ä¸ªå¢©èº«ï¼ç¬¬145å¤©æ½å·¥å®æã\\PTP3-TP4: A total of 24 cá»c foundations with a construction duration of 12 days, completed on the 67th day. There are 2 cá»c caps completed on the 105th day, and 2 pier shafts completed on the 145th day.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:55.9950919Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;TP5-TP6:æ¡©åº24æ ¹,æ½å·¥æç»­æ¶é´12å¤©ï¼ç¬¬54å¤©æ½å·¥å®æï¼2ä¸ªæ¿å°ï¼ç¬¬85å¤©æ½å·¥å®æï¼2ä¸ªå¢©èº«ï¼ç¬¬115å¤©æ½å·¥å®æã\\PTP5-TP6: A total of 24 pile foundations with a construction duration of 12 days, completed on the 54th day. There are 2 pile caps completed on the 85th day, and 2 pier shafts completed on the 115th day.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;TP5-TP6:æ¡©åº24æ ¹,æ½å·¥æç»­æ¶é´12å¤©ï¼ç¬¬54å¤©æ½å·¥å®æï¼2ä¸ªæ¿å°ï¼ç¬¬85å¤©æ½å·¥å®æï¼2ä¸ªå¢©èº«ï¼ç¬¬115å¤©æ½å·¥å®æã\\PTP5-TP6: A total of 24 cá»c foundations with a construction duration of 12 days, completed on the 54th day. There are 2 cá»c caps completed on the 85th day, and 2 pier shafts completed on the 115th day.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:55.9952542Z"
+  },
+  {
+    "source": "{\\fSimSun|b0|i0|c134|p2;TP7-NP12:æ¡©åº28æ ¹,æ½å·¥æç»­æ¶é´14å¤©ï¼ç¬¬41å¤©æ½å·¥å®æï¼3ä¸ªæ¿å°ï¼ç¬¬65å¤©æ½å·¥å®æï¼3ä¸ªå¢©èº«ï¼ç¬¬85å¤©æ½å·¥å®æã\\PTP7-NP12: A total of 28 pile foundations with a construction duration of 14 days, completed on the 41st day. There are 3 pile caps completed on the 65th day, and 3 pier shafts completed on the 85th day.}",
+    "targetLang": "vi",
+    "translation": "{\\fSimSun|b0|i0|c134|p2;TP7-NP12:æ¡©åº28æ ¹,æ½å·¥æç»­æ¶é´14å¤©ï¼ç¬¬41å¤©æ½å·¥å®æï¼3ä¸ªæ¿å°ï¼ç¬¬65å¤©æ½å·¥å®æï¼3ä¸ªå¢©èº«ï¼ç¬¬85å¤©æ½å·¥å®æã\\PTP7-NP12: A total of 28 cá»c foundations with a construction duration of 14 days, completed on the 41st day. There are 3 cá»c caps completed on the 65th day, and 3 pier shafts completed on the 85th day.}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:55.9953829Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;å±¥å¸¦å\\P\\fArial|b0|i0|c134|p34;Crawler Crane}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;å±¥å¸¦å\\P\\fArial|b0|i0|c134|p34;Crawler Crane}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:56.0090302Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;å¹³æ¿è½¦\\P\\fArial|b0|i0|c134|p34;Flatbed Truck}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;å¹³æ¿è½¦\\P\\fArial|b0|i0|c134|p34;Flatbed Truck}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:12.2445669Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æ··ååç½è½¦\\P\\fArial|b0|i0|c134|p34;Concrete Mixer Truck}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æ··ååç½è½¦\\P\\fArial|b0|i0|c134|p34;Mixer BÃª tÃ´ng Truck}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:58.6666636Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æ¸£åè½¦\\P\\fArial|b0|i0|c134|p34;Tipper Truck}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æ¸£åè½¦\\P\\fArial|b0|i0|c134|p34;Tipper Truck}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:52.9733710Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æ¥æ°´å£ \\P\\fArial|b0|i0|c134|p34;Distribution Box}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æ¥æ°´å£ \\P\\fArial|b0|i0|c134|p34;Distribution Box}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:01.0148511Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æ³µè½¦\\P\\fArial|b0|i0|c134|p34;Concrete Pump Truck}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æ³µè½¦\\P\\fArial|b0|i0|c134|p34;BÆ¡m BÃª tÃ´ng Truck}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:59.8255414Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æææº\\P\\fArial|b0|i0|c134|p34;Excavator}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æææº\\P\\fArial|b0|i0|c134|p34;Excavator}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:17.6018815Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;ææé»æº\\P\\fArial|b0|i0|c134|p34;Rotary Drilling Rig}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;ææé»æº\\P\\fArial|b0|i0|c134|p34;Rotary Drilling Rig}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:56:17.6023418Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æµç­æ¿å°æ··åå\\PPile cap concrete pouring}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;æµç­æ¿å°æ··åå\\PPile cap bÃª tÃ´ng pouring}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:58.6675773Z"
   },
   {
     "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;Backhoe}",
@@ -497,177 +1953,114 @@
     "updatedAt": "2026-10-07T02:55:52.9732034Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;履带吊\\P\\fArial|b0|i0|c134|p34;Crawler Crane}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;éçµç®±\\P1000KVA\\P\\fArial|b0|i0|c134|p34;Distribution Box}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;履带吊\\P\\fArial|b0|i0|c134|p34;Crawler Crane}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:56.0090302Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;平板车\\P\\fArial|b0|i0|c134|p34;Flatbed Truck}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;平板车\\P\\fArial|b0|i0|c134|p34;Flatbed Truck}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:12.2445669Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;挖掘机\\P\\fArial|b0|i0|c134|p34;Excavator}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;挖掘机\\P\\fArial|b0|i0|c134|p34;Excavator}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:17.6018815Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;接水口 \\P\\fArial|b0|i0|c134|p34;Distribution Box}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;接水口 \\P\\fArial|b0|i0|c134|p34;Distribution Box}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:01.0148511Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;旋挖钻机\\P\\fArial|b0|i0|c134|p34;Rotary Drilling Rig}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;旋挖钻机\\P\\fArial|b0|i0|c134|p34;Rotary Drilling Rig}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:56:17.6023418Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;泵车\\P\\fArial|b0|i0|c134|p34;Concrete Pump Truck}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;泵车\\P\\fArial|b0|i0|c134|p34;Bơm Bê tông Truck}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:59.8255414Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;浇筑承台混凝土\\PPile cap concrete pouring}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;浇筑承台混凝土\\PPile cap bê tông pouring}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:58.6675773Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;混凝土罐车\\P\\fArial|b0|i0|c134|p34;Concrete Mixer Truck}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;混凝土罐车\\P\\fArial|b0|i0|c134|p34;Mixer Bê tông Truck}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:58.6666636Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;渣土车\\P\\fArial|b0|i0|c134|p34;Tipper Truck}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;渣土车\\P\\fArial|b0|i0|c134|p34;Tipper Truck}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:52.9733710Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;配电箱\\P1000KVA\\P\\fArial|b0|i0|c134|p34;Distribution Box}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;配电箱\\P1000KVA\\P\\fArial|b0|i0|c134|p34;Distribution Box}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;éçµç®±\\P1000KVA\\P\\fArial|b0|i0|c134|p34;Distribution Box}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:01.0150220Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;钢筋笼\\P\\fArial|b0|i0|c134|p34;Reinforcement Cage}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;é»æ¸£\\P\\fArial|b0|i0|c134|p34;Drilling Cuttings}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;钢筋笼\\P\\fArial|b0|i0|c134|p34;Reinforcement Cage}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:56.0088186Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;钢筋笼存放区\\fArial|b0|i0|c134|p34;\\P6\\fSimSun|b0|i0|c134|p2;排\\fArial|b0|i0|c134|p34;2\\fSimSun|b0|i0|c134|p2;层\\PReinforcement Cage Storage Area\\P6 rows and 2 layers}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;钢筋笼存放区\\fArial|b0|i0|c134|p34;\\P6\\fSimSun|b0|i0|c134|p2;排\\fArial|b0|i0|c134|p34;2\\fSimSun|b0|i0|c134|p2;层\\PReinforcement Cage Storage Area\\P6 rows and 2 layers}",
-    "sourceType": "ai-auto",
-    "updatedAt": "2026-10-07T02:55:52.9977388Z"
-  },
-  {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;钻渣\\P\\fArial|b0|i0|c134|p34;Drilling Cuttings}",
-    "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;钻渣\\P\\fArial|b0|i0|c134|p34;Drilling Cuttings}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;é»æ¸£\\P\\fArial|b0|i0|c134|p34;Drilling Cuttings}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:52.9735751Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;门卫室\\P\\fArial|b0|i0|c134|p34;Guard Room}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;é¨å«å®¤\\P\\fArial|b0|i0|c134|p34;Guard Room}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;门卫室\\P\\fArial|b0|i0|c134|p34;Guard Room}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;é¨å«å®¤\\P\\fArial|b0|i0|c134|p34;Guard Room}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:54.5557842Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C4;洗车池\\PVehicle Wash Bay\\P2.4*4.6}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;é¢ç­ç¬¼\\P\\fArial|b0|i0|c134|p34;Reinforcement Cage}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C4;洗车池\\PVehicle Wash Bay\\P2.4*4.6}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;é¢ç­ç¬¼\\P\\fArial|b0|i0|c134|p34;Reinforcement Cage}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:56.0088186Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;é¢ç­ç¬¼å­æ¾åº\\fArial|b0|i0|c134|p34;\\P6\\fSimSun|b0|i0|c134|p2;æ\\fArial|b0|i0|c134|p34;2\\fSimSun|b0|i0|c134|p2;å±\\PReinforcement Cage Storage Area\\P6 rows and 2 layers}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C0;é¢ç­ç¬¼å­æ¾åº\\fArial|b0|i0|c134|p34;\\P6\\fSimSun|b0|i0|c134|p2;æ\\fArial|b0|i0|c134|p34;2\\fSimSun|b0|i0|c134|p2;å±\\PReinforcement Cage Storage Area\\P6 rows and 2 layers}",
+    "sourceType": "ai-auto",
+    "updatedAt": "2026-10-07T02:55:52.9977388Z"
+  },
+  {
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C4;æ´è½¦æ± \\PVehicle Wash Bay\\P2.4*4.6}",
+    "targetLang": "vi",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\C4;æ´è½¦æ± \\PVehicle Wash Bay\\P2.4*4.6}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:54.5439146Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\H0.74074x;\\W0.7;\\C0;钢筋加工区\\PReinforcement \\PStorage Area}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\H0.74074x;\\W0.7;\\C0;é¢ç­å å·¥åº\\PReinforcement \\PStorage Area}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\H0.74074x;\\W0.7;\\C0;钢筋加工区\\PReinforcement \\PStorage Area}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\H0.74074x;\\W0.7;\\C0;é¢ç­å å·¥åº\\PReinforcement \\PStorage Area}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:58.6760959Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\H0.74074x;\\W0.7;\\C0;钢筋存放区\\PReinforcement \\PStorage Area}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\H0.74074x;\\W0.7;\\C0;é¢ç­å­æ¾åº\\PReinforcement \\PStorage Area}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\H0.74074x;\\W0.7;\\C0;钢筋存放区\\PReinforcement \\PStorage Area}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;\\H0.74074x;\\W0.7;\\C0;é¢ç­å­æ¾åº\\PReinforcement \\PStorage Area}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:55:58.6763209Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;洗车池\\PVehicle Wash Bay\\P2.4*4.6}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;æ´è½¦æ± \\PVehicle Wash Bay\\P2.4*4.6}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;洗车池\\PVehicle Wash Bay\\P2.4*4.6}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;æ´è½¦æ± \\PVehicle Wash Bay\\P2.4*4.6}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:20.8036321Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;钢筋加工区}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;é¢ç­å å·¥åº}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;钢筋加工区}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;é¢ç­å å·¥åº}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:28.0490584Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;钢筋存放区}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;é¢ç­å­æ¾åº}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;钢筋存放区}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;é¢ç­å­æ¾åº}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:28.0431287Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;钢筋笼存放区\\P4排2层(3根桩)}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;é¢ç­ç¬¼å­æ¾åº\\P4æ2å±(3æ ¹æ¡©)}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;钢筋笼存放区\\P4排2层(3根桩)}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;é¢ç­ç¬¼å­æ¾åº\\P4æ2å±(3æ ¹æ¡©)}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:24.4777859Z"
   },
   {
-    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;钢筋笼存放区\\P6排2层(4根桩)}",
+    "source": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;é¢ç­ç¬¼å­æ¾åº\\P6æ2å±(4æ ¹æ¡©)}",
     "targetLang": "vi",
-    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;钢筋笼存放区\\P6排2层(4根桩)}",
+    "translation": "\\pxqc;{\\fSimSun|b0|i0|c134|p2;é¢ç­ç¬¼å­æ¾åº\\P6æ2å±(4æ ¹æ¡©)}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:28.0555997Z"
   },
   {
-    "source": "\\pxt5;{\\fSimSun|b0|i0|c134|p2;往北侧偏移3米}",
+    "source": "\\pxt5;{\\fSimSun|b0|i0|c134|p2;å¾åä¾§åç§»3ç±³}",
     "targetLang": "vi",
-    "translation": "\\pxt5;{\\fSimSun|b0|i0|c134|p2;往北侧偏移3米}",
+    "translation": "\\pxt5;{\\fSimSun|b0|i0|c134|p2;å¾åä¾§åç§»3ç±³}",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:23.3539957Z"
   },
   {
-    "source": "渣土车",
+    "source": "æ¸£åè½¦",
     "targetLang": "vi",
-    "translation": "渣土车",
+    "translation": "æ¸£åè½¦",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:22.2677675Z"
   },
   {
-    "source": "钻渣",
+    "source": "é»æ¸£",
     "targetLang": "vi",
-    "translation": "钻渣",
+    "translation": "é»æ¸£",
     "sourceType": "ai-auto",
     "updatedAt": "2026-10-07T02:56:22.2680183Z"
   }
